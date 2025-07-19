@@ -1,0 +1,56 @@
+body{
+    background-color: #00A1E4;
+}
+
+
+.search-wrapper{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+
+input {
+    align-self: center;
+    border: none;
+    appearance: none;
+    background: #f2f2f2;
+    padding: 1%;
+    border-radius: 10px;
+    width: 40%;
+    outline: none;
+}
+
+.question-cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1%;
+}
+
+.card{
+    background-color: #ffffffd0;
+    padding: 2%;
+    border-radius: 10px;
+    width: 70%;
+    margin: 2%;
+}
+
+.card > .header{
+    font-weight: bold;
+    font-size: x-large;
+    padding: 1%;
+}
+
+.card > .body{
+    font-size: large;
+}
+
+hr {
+    border-color: #00A1E4;
+}
+
+.hide {
+    display: none;
+}
