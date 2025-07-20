@@ -15,10 +15,11 @@ body{
     padding: 1%;
     margin: 2%;
     height: 50px;
-    width: 5%;
+    width: 15%;
     background-color: #dddddd;
     border-style: none;
     border-radius: 10px;
+    color: black;
 }
 
 input {
