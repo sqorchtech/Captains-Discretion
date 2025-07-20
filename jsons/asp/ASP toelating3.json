@@ -1,0 +1,3670 @@
+{
+    "uuid": "4df168a5-1249-46a3-9949-bfe718554a84",
+    "title": "Admission test AGKASPEL v24.2 -",
+    "questions": [
+        {
+            "uuid": "3b1a582e-76a0-c797-5a0f-312ce1737cff",
+            "query": "<span style=\"display: block;\"><p>In a&nbsp;<u>damage tolerant</u> construction...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>redundancy makes sure the construction does not fail.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>damage&nbsp;does not affect&nbsp;the service life.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>fatigue cracks are acceptable within predetermined criteria.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>corrosion and fatigue do not occur.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8326ab8f-c79a-a643-6e61-d5029045bffd",
+            "query": "<span style=\"display: block;\"><p>During a high, positive <u>wing&nbsp;load</u> the...</p><ol><li>upper wing skin experiences a compression load;</li><li>lower wing skin experiences a tension load.</li></ol><p>&nbsp;</p><p>Note:</p><p>There is no EASA LO for this question!</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Statement 1 is correct; statement 2 is false.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Statement 1 is false; statement 2 is true.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Both statements are true.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>both statements are false.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "536ffd4a-a5db-a349-99f7-8fe81ff74f11",
+            "query": "<span style=\"display: block;\"><p>A <u>negative tail load</u> will cause in the<em> lower</em> fuselage skin a...</p><p>&nbsp;</p><p>Note:</p><p>In the future there will be&nbsp;no EASA LO for this question!</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>tensile (pull)&nbsp;load.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>shear load.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>compression&nbsp;load.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>fatigue load.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "99fba26d-972d-321e-9a27-31c05f020b51",
+            "query": "<span style=\"display: block;\"><p>The Dutch word for 'fatigue' is...&nbsp;</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>'kruip'.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>'corrosie'.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>'vermoeiing'.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>'scheurvorming'.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "99f34b70-63b5-51ae-8576-3232c5ec2c11",
+            "query": "<span style=\"display: block;\"><p><u>Corrosion</u> is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>cracking of metals due to fatigue.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>chemical&nbsp;deterioration of materials.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>delamination of fibres in composites.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>weakening of structures due to&nbsp;water ingress.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a316075e-ecc0-7a82-e77b-cc27461eb21e",
+            "query": "<span style=\"display: block;\"><p>Aircraft <u>maintenance</u> with a fixed <em>Time Between Overhaul (TBO)</em>&nbsp;is typically...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>hard-time maintenance.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>on-condition maintenance.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>line maintenance.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>fit-and-forget maintenance.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1bf5b369-dab3-224d-7bbc-1f730502a763",
+            "query": "<span style=\"display: block;\"><p>Which statement about aircraft <u>maintenance</u> is correct?</p><ol><li>Hard-time maintenance is a method to remove a part after a specified number of flight cycles or hours;</li><li>On-condition maintenance is a<span style=\"color:rgb(74, 74, 74);font-size:16px;font-style:normal;font-weight:normal;letter-spacing:normal;text-align:left;text-transform:none;white-space:pre-wrap;word-spacing:0px;background-color:rgb(252, 252, 252);text-decoration:none;float:none;\"> method to determine a part's performance which may lead to a preventive removal.</span></li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Statement 1 is true; statement 2 is false.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Statement 1 is false; statement 2 is true.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Both statements are true.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Both statements are false.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "887cee83-56b0-5e00-63b9-a5f782adf54b",
+            "query": "<span style=\"display: block;\"><p>The <u>wing structure</u> of a <em>modern</em> transport aeroplane is of the following type:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>monocoque.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>truss web.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>semi-monocoque.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>girder framework.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7856b106-fd0c-5792-62aa-42d14a338c1c",
+            "query": "<span style=\"display: block;\"><p>A<u> cantilever</u> wing construction...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>requires struts to support the wing.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>makes use of braces&nbsp;instead of spars.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>has interconnected spars.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>makes use of a semi-monocoque construction instead of a truss web.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "804c9ae2-fa06-32d1-81fc-49a7ece390b9",
+            "query": "<span style=\"display: block;\"><p>Compared to aluminium reinforced structures, <u>carbon-fibre</u> reinforced structures are&nbsp;used to increase the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>strength.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>mass.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>strength-to-weight ratio.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>impact resistance.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1af1d5e2-416d-c6af-297f-725fa69a065c",
+            "query": "<span style=\"display: block;\"><p><u>Composite</u> material...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>does in principle not suffer from fatigue.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>is an alloy of different metals.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>is a monocoque construction that requires stringers and&nbsp;frames.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>consist of a sandwich of two metal sheets with in between a honeycomb filler.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6591475b-86f4-2895-f328-9f4aa8d5d610",
+            "query": "<span style=\"display: block;\"><p>Which of the following constructions is&nbsp;built as a <u>torsion box</u>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>A fuselage&nbsp;consisting&nbsp;of longerons and frames.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The two wing&nbsp;spars of each wing&nbsp;together with skin panels.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>The landing gear.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The engine subframe.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9d52a197-cb94-7f85-97e5-93e58cba0b60",
+            "query": "<span style=\"display: block;\"><p>The <u>landing gear</u> is usually attached to...</p><p>&nbsp;</p><p>Note:&nbsp;In the future there will be no EASA LO for this question!</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the upper skin in the wing structure.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a rib in the wing structure.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>stringers in the wing structure.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a spar in the wing structure.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "70e0f8c6-6c75-f2f7-5d8d-c19e5bf766b7",
+            "query": "<span style=\"display: block;\"><p>The <u>empennage</u>&nbsp;of a <em>modern</em> jet transport aeroplane is made as a(n)...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>girder framework construction.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a semi-monocoque construction.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a monocoque construction.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>truss web construction.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "44ab76e1-cffa-f629-4a87-86b30191cd4e",
+            "query": "<span style=\"display: block;\"><p>A <u>plug-type</u> door...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>is primarily held closed by cabin differential pressure.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>opens first&nbsp;in an outward direction then inward.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>does not require a latching and locking mechanism.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>relieves the cabin pressure before door opening.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "18ddc1c8-6911-f1bf-acb1-6e5a3b95a446",
+            "query": "<span style=\"display: block;\"><p><u>Stringers</u> on the <em>fuselage</em> skin, increase the compression strength in the aircraft's...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>longitudinal direction.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>lateral direction.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>vertical direction.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>radial direction.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "76e957c9-076b-bc05-f613-95588603e7fe",
+            "query": "<span style=\"display: block;\"><p>A <u>direct vision window</u> is a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>cockpit window that can be opened to allow the flight crew to check their flight path visually in case of an obstructed windshield.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>windshield equipped with wipers and heating elements to ensure a clear view during precipitation conditions.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>small window in the flight- or passenger compartment door to allow the flight crew to check the area in front of the door.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>small window that allows the flight crew to check the landing gear visually in case of a failure of the normal indicating system.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a4404a9a-979d-af54-de2e-0583a9ce39a2",
+            "query": "<span style=\"display: block;\"><p>Which statement concerning the following maximum <u>masses</u> is correct?</p><p>&nbsp;</p><p>Note:</p><p>MRM = Maximum Ramp Mass</p><p>MTOM = Maximum Take-Off Mass</p><p>MZFM = Maximum Zero Fuel Mass</p><p>MLM = Maximum Landing Mass</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>MRM&nbsp;&gt; MTOM</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>MTOM &gt; MRM</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>MZFM&nbsp;&gt; MRM</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>MLM &gt; MTOM</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2d838fd2-2808-b731-5585-2b10c5c232c6",
+            "query": "<span style=\"display: block;\"><p><u>Airframe life</u> is limited by...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>flight cycles.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>flight hours.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>aircraft age.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>take-off mass.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8feeadb7-04a6-ab43-cf86-69de3be7604e",
+            "query": "<span style=\"display: block;\"><p>The&nbsp;<u>hydraulic system pressure</u>&nbsp;in&nbsp;<em>large</em> transport aeroplanes is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>50 - 250 psi.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1000 - 2000 psi.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>3000 - 5000 psi.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>5000 - 7000 psi.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "71e8491b-23b2-9f8f-384c-882d18918201",
+            "query": "<span style=\"display: block;\"><p>Hydraulic fluid is fed to the <u>hydraulic pump</u> under some pressure to prevent...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>cavitation in the pump.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>insufficient pump capacity.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pre-heating&nbsp;of the pump.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>vapour locking downstream the pump.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "88e36ba9-c3dd-1bd5-f51d-03c8e0c085b1",
+            "query": "<span style=\"display: block;\"><p>The <u>hydraulic system pressure</u>&nbsp;of a large transport aircraft is <em>controlled</em> by adapting...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the camplate (or swashplate) angle of the pump.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the air pressure on top of the hydraulic reservoir.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the rpm of the pump.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the pressure in the accumulator.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "79da5918-98b4-363e-3bed-ab3cd13f590d",
+            "query": "<span style=\"display: block;\"><p>In which of the following situations is an <u>electric-driven hydraulic pump</u>&nbsp;most probably needed?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>When the landing&nbsp;gear is being&nbsp;retracted&nbsp;during take-off.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>When the flight controls are to be checked during taxi-out.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>In case of loss of all hydraulic fluid from the system concerned.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>In case of a combined slat/flap selection during approach.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "fd94546a-e9c3-fb0b-717b-578d3aac22e5",
+            "query": "<span style=\"display: block;\"><p><em>Redundancy</em>&nbsp;of the <u>hydraulic function</u> can be&nbsp;achieved by...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>feeding multiple hydraulic systems from one central hydraulic manifold.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pressurising a hydraulic actuator by multiple hydraulic systems.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>having hydraulic systems perform multiple tasks.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>having multiple hydraulic systems, pressurizing their own actuators, performing the same task.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "1f14e4cb-8d93-10f0-f6fe-f9b817f22d52",
+            "query": "<span style=\"display: block;\"><p>The <em>landing gear</em> is operated by <u>linear hydraulic actuators</u> and not by rotary hydraulic actuators (hydraulic motors) because...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>hydraulic motors are slower than linear actuators.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>linear actuators can create larger forces than hydraulic motors.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>linear actuators facilitate alternate gear extension better than hydraulic motors.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>hydraulic motors are less reliable than linear actuators.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "091592a4-9d08-5de5-e5bb-d0d76507a3e4",
+            "query": "<span style=\"display: block;\"><p>Regarding <u>hydraulic actuators</u>, which statement is true regarding the difference in operation between&nbsp;'<em>linear</em> piston actuators'&nbsp;and '<em>rotary</em>&nbsp;hydraulic motors with screw spindles'?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>If the hydraulic pressure fails, the hydraulic motor will remain in a fixed position while the piston actuator can still be moved by forces on the driven aircraft part.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>A hydraulic motor can transmit larger forces than a piston actuator.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Linear actuators are better suited for driving the stabiliser than a rotary actuator.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A rotary actuator&nbsp;is better suited for operating the undercarriage than a linear&nbsp;actuator.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "843c2be9-df59-82f4-aaf2-404fbea1f226",
+            "query": "<span style=\"display: block;\"><p>During a walk-around inspection, the pilot finds the <u>accumulator</u> fluid&nbsp;pressure to be one third of the normal&nbsp;working pressure.</p><p>This is normal because the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>hydraulic pumps are not in operation and the accumulator may be used to supply the (parking) brakes.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>there is no electricity to keep the indicator needle at the correct value.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>bleed-air system cannot pressurise the accumulators.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>accumulator pressure is always one third&nbsp;of the normal hydraulic system pressure.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f078481a-6cfd-6ee2-3ef8-97fd9b37fae5",
+            "query": "<span style=\"display: block;\"><p>Regarding the <u>landing-gear alerting-system</u>, as long as the gear is...</p><ol><li>up and locked, a blue gear alert&nbsp;is&nbsp;given;</li><li>down and locked, a green alert&nbsp;is given.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><ol><li>True;</li><li>True.</li></ol></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol><li>True;</li><li>False.</li></ol></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol><li>False;</li><li>True.</li></ol></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><ol><li>False;</li><li>False.</li></ol></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "eb5ff2ce-cf04-d3b9-6092-b58df665bcc0",
+            "query": "<span style=\"display: block;\"><p>Ground inspection of the <u>main landing gear</u> reveals that one leg is <em>more compressed</em> than the other.</p><p>The cause may be...</p><p>&nbsp;</p><p>Note: The centre of gravity is located exactly on the longitudinal axis.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>a difference in tyre pressure.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>leakage of nitrogen in the most compressed leg.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>too little oil in the least compressed leg.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the wheel of the least compressed leg is sitting in a hole.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "5b2969a0-9007-2d0f-59c4-089494e8eede",
+            "query": "<span style=\"display: block;\"><p>The main landing gear of a straight winged aircraft with a <u>tricycle landing gear</u>&nbsp;is located...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>in front of the centre-of-gravity.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>behind the centre-of-gravity.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>at the centre-of-gravity.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>at the position of the center main gear.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c9c259b2-f62f-988c-9877-be4656450370",
+            "query": "<span style=\"display: block;\"><p>During&nbsp;touch-down,&nbsp;the <u>landing shock</u> is <em>absorbed</em> through...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the torque links.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the overcenter lock.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a piston in a cylinder filled with a&nbsp;liquid and a gas.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>drag stays and side struts.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "108b6425-cd0d-a543-5cda-07854d4d8c61",
+            "query": "<span style=\"display: block;\"><p><u>Ground steering</u>&nbsp;in <em>small</em> aeroplanes like Cessna's, Piper's and Beechcraft's is <em>normally</em> achieved through the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>nosewheel steering wheel or -tiller.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a free-castoring nose-wheel.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>rudder pedals backed-up by the brake pedals.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>aileron control wheel.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4348f629-08c8-9a1c-9f8f-8cf5d8842ebb",
+            "query": "<span style=\"display: block;\"><p>The power for <u>nosewheel steering</u>&nbsp;in&nbsp;large transport aeroplanes comes from...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>human actuators.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>electric actuators.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pneumatic&nbsp;actuators.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>hydraulic actuators.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "03f276c4-4f8e-9338-32d7-4af6de90db1d",
+            "query": "<span style=\"display: block;\"><p>One of the inputs to the computer of the&nbsp;<u>automatic braking system</u>&nbsp;is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>wheel speed.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>aircraft acceleration.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>runway length.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>brake pressure.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8868aaae-f124-c647-8b9f-ef5be5981b3c",
+            "query": "<span style=\"display: block;\"><p>Which statement regarding <u>ABS</u> is true?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>ABS prevents locked wheels.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ABS uses thrust reversers, spoilers, speed brakes and wheel brakes to bring the&nbsp;aircraft to a full stop after landing.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ABS is armed prior to take-off and landing.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>ABS stops wheel rotation during gear retraction.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d180d289-6482-1036-eee8-4e0d444a10e3",
+            "query": "<span style=\"display: block;\"><p>Which statement regarding&nbsp;the <u>autobrake system</u>&nbsp;(ABS) is correct?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>An armed ABS&nbsp;activates as soon as the ground spoilers extend.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The braking distance on a dry runway only depends on&nbsp;the groundspeed at touchdown, and not on&nbsp;the aeroplane weight or the use of the thrust reverser.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>An ABS deactivates automatically when the wheelspeed is low (&lt;15 kt).</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>When the ABS is not armed before take-off, the take-off warning system will give an alert when advancing the throttle.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c708252a-43dc-4aec-0fcb-78972b3184df",
+            "query": "<span style=\"display: block;\"><p>The purpose of the <u>fusible plug</u>&nbsp;that is installed in some aircraft <em>wheels</em> is to...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>prevent&nbsp;the brake pads from&nbsp;sticking to the brake&nbsp;disk at a too high temperature.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>protect&nbsp;a tire against explosion at a too high temperature.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>prevent&nbsp;spillage of brake fluid when hydraulic lines are damaged.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>protect&nbsp;against over inflation.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "5934c76d-7c1d-fbd2-a195-8eabc16c8063",
+            "query": "<span style=\"display: block;\"><p>The <em>primary</em> stops of the <u>flight controls</u>...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>are located near the elevators, ailerons and rudder.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>are located near the control column/wheel and the pedals.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>lock the primary flight controls when on the ground.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>is the bottoming of the pistons in their cylinders.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e18f9d3e-ddde-4bee-e017-fb06f61ea940",
+            "query": "<span style=\"display: block;\"><p>Which of the following is a <u>primary flight control</u> surface?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Roll spoiler.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Horizontal stabiliser.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Flaps and slats.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Trim tab.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4c48cc93-9403-f812-ca41-1d623dc76cb1",
+            "query": "<span style=\"display: block;\"><p>Given a&nbsp;<em>large transport aeroplane</em> with a <u>conventional flight control system</u>.</p><p>Put the following components in the correct sequence:</p><ol><li>actuator;</li><li>cable;</li><li>control surface;</li><li>control valve;</li><li>control wheel/column;</li><li>electric wire;</li><li>position sensor.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>5-2-4-1-3.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>5-7-6-1-3.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>5-2-7-6-3.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>5-2-3.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7461f49a-8524-eef6-849a-6767ec8bdd6a",
+            "query": "<span style=\"display: block;\"><p>What is the consequence of a <u>jammed stabiliser</u>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Passengers must be moved for pitch trim control.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The aircraft may lose pitch control when the speed is changed.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Fuel must be cross-fed for pitch trim control.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The elevator can no longer be moved.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1bbeaa69-b484-e2a8-2fc9-d1ccd7d42991",
+            "query": "<span style=\"display: block;\"><p>The <u>spoiler mixer</u>&nbsp;<em>combines</em> the input&nbsp;from...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the aileron control wheel with the input from the flap lever&nbsp;for roll control.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the speedbrake lever with the input from the&nbsp;landing gear lever for spoiling lift when on the&nbsp;ground.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the speedbrake lever with the input&nbsp;from the aileron control wheel for roll control.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the aileron control wheel with the input&nbsp;from the&nbsp;rudder pedals to prevent adverse yaw.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "da7f3c43-b55b-7209-eb92-69047f906080",
+            "query": "<span style=\"display: block;\"><p>The <em>hydraulic actuators</em> of the <u>trailing-edge flaps</u> are...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>rotary, gear-type&nbsp;actuators directly attached&nbsp;to the flaps.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>rotary, multi piston-type actuators driving screw spindles.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>linear, vane-type actuators driving a gearbox.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>linear, piston-type&nbsp;actuators driving a ball-nut.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e12f9d35-6733-e878-586a-a15282c44ab2",
+            "query": "<span style=\"display: block;\"><p>Which statement regarding&nbsp;<u>ground and flight&nbsp;spoilers</u> is true?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Ground spoilers have a larger deflection angle than flight spoilers.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Ground spoilers deflect symmetrically; flight spoilers deflect asymmetrically.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Ground spoilers decrease lift and increase drag;&nbsp;flight spoilers only increase drag.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Ground spoilers are speed brakes; flight spoilers are roll devices.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "22565097-4e33-d984-9eeb-97cdae3a2d0b",
+            "query": "<span style=\"display: block;\"><p>To prevent&nbsp;<u>flap&nbsp;blow-back</u>&nbsp;during a <em>hydraulic system failure</em>, use is made of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>friction and mechanical locks in the (ball) nut to prevent the flap spindle (screw jack) from rotating.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a linear-type actuator&nbsp;creating a hydraulic lock.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>an electrically operated clutch.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the load-limit relief-system to reduce&nbsp;the aerodynamic load on the flaps.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7c6ae7d8-baf6-6108-474e-9f42373c86ec",
+            "query": "<span style=\"display: block;\"><p>The flap/slat <u>asymmetry protection</u> system must detect a <em>disagree</em> between the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>left and right flap and/or slat position.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>flap and slat position.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>flap/slat lever and the actual flap/slat position.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>flap/slat position and the airspeed.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "04574d32-4c72-24d3-8599-96216d935cf9",
+            "query": "<span style=\"display: block;\"><p>A <em>double slotted </em><u>Fowler flap</u>...</p><p>&nbsp;</p><p>Note:&nbsp;In the future there will be&nbsp;no EASA LO for this question!</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>consists of a leading edge flap and a trailing edge flap.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>increases the lift while decreasing the drag.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>consists of three flap panels.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>increases the camber and the surface area.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "10780c5c-b552-6217-02d6-a778f39ba8e2",
+            "query": "<span style=\"display: block;\"><p>When a <u>fly-by-wire</u> system operates in <em>'direct&nbsp;law'</em>, the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>flight controls are controlled and operated through steel cables.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>flight controls are electrically controlled and&nbsp;hydraulically operated.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>flight controls are controlled through steel cables but are hydraulically operated.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>aircraft is controlled through the secondary flight controls and asymmetric thrust.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1f6d7e1c-dcd1-46bb-26d3-846543003174",
+            "query": "<span style=\"display: block;\"><p>What makes a <u>fly-by-wire system</u>&nbsp;<em>irreversible</em>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>There is no mechanical feedback towards the control column/wheel/pedals.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>The input cannot be overridden.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Once installed, the mechanical steel control cables are permanently removed.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The FBW system keeps the aircraft in its flight envelope.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6752f184-a172-e83d-9289-869de85596b1",
+            "query": "<span style=\"display: block;\"><p>When the cabin&nbsp;<u>temperature control valve</u> opens, more air...</p><p>&nbsp;</p><p>Note:<br>ACM = air cycle machine.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>bypasses the ACM resulting in a higher cabin temperature.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>enters&nbsp;the ACM resulting in a lower cabin temperature.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>from the bleed-air system&nbsp;enters the cooling pack&nbsp;resulting in a higher cabin temperature.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>bypasses the bleed-air pre-cooler resulting in a lower cabin temperature.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7936a243-bcfd-78a4-2306-dbf39c8ee891",
+            "query": "<span style=\"display: block;\"><p>In a <em>piston engine</em>&nbsp;aircraft, the air for the <u>inflatable boots</u> is taken from...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>an engine driven pump.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a ram-air inlet.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the inlet air manifold.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a muffler around the exhaust.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9f60c767-d903-71ab-feaf-6cac78b3f790",
+            "query": "<span style=\"display: block;\"><p>In a <em>piston engine</em> aircraft with a pressure cell,&nbsp;the air for the <u>cabin pressurisation</u> system is taken from an...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>engine driven pump.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>auxiliary power unit.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ram air turbine.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>oxygen bottle.&nbsp;</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a61c9d76-9f7f-1c44-849f-5bb091f6126e",
+            "query": "<span style=\"display: block;\"><p>In a <em>turbine engine</em> aircraft, the air for the <u>cabin pressurisation</u> system is taken from a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>compressor.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>fan.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>dedicated ram-air inlet.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>turbine.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bd69ef54-a7e0-8ec9-8fcb-17cc469487b4",
+            "query": "<span style=\"display: block;\"><p>The <u>bleed-air pressure-regulating and&nbsp;shut-off valve</u> closes when there is a(n)...</p><ol><li>overpressure;</li><li>overtemperature;</li><li>duct leak;</li><li>oil leak.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 only.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 and 2 only.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2 and 3 only.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1, 2, 3 and 4.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7159bbad-4d6f-c973-2871-655969bcfc6f",
+            "query": "<span style=\"display: block;\"><p>An <u>air cycle machine</u> consists of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>a liquid receiver, a pump,&nbsp;an evaporator and a condenser.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a turbine-compressor assembly and two heat-exchangers.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a cooling pack, a temperature control valve and a mixing chamber.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>&nbsp;a pre-cooler, a flow-control valve&nbsp;and a recirculation fan.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cb26a0df-d71c-2b9b-3d30-761fd488c06e",
+            "query": "<span style=\"display: block;\"><p>During flight at a constant aircraft- and cabin altitude, the <u>outflow valve</u> is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>fully open to allow ventilation and to&nbsp;compensate for uncontrolled leaks.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>partially open to compensate for the controlled and uncontrolled&nbsp;leaks.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>partially open to maintain the cabin altitude and to&nbsp;allow ventilation.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>closed.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "05b3d019-fcf8-0317-ba95-4dfe07c2895c",
+            "query": "<span style=\"display: block;\"><p>An example&nbsp;of a <u>de-icing</u>&nbsp;system is [1]&nbsp;and of an <u>anti-icing</u>&nbsp;system is [2].</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><ol><li>window heat;</li><li>prop heat.</li></ol></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol><li>engine air intake heating;</li><li>static port heating.</li></ol></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol><li>pneumatic duct heating (piccolo tube);</li><li>ice-detector heating.</li></ol></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol><li>pneumatic boots;</li><li>pitot heat.</li></ol></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "be612e50-cecb-4a0d-e717-25815cfcb68b",
+            "query": "<span style=\"display: block;\"><p>Which of these two statements about <u>ice protection</u> is true?</p><ol><li>Anti-icing of engine inlets is usually accomplished by conducting hot air through the leading edge of the engine nacelles.</li><li>The air used for anti-icing is heated by thermostat-controlled electrical heaters.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><ol><li>true;</li><li>true.</li></ol></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol><li>true;</li><li>false.</li></ol></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><ol><li>false;</li><li>true.</li></ol></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol><li>false;</li><li>false.</li></ol></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9009602d-84ec-4d4b-8ee9-b5aae15a7c69",
+            "query": "<span style=\"display: block;\"><p>What types of <u>ice protection</u> can be found at the air intake of <em>turbofan</em> engines?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>anti-icing and de-icing systems.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>thermal and fluid systems.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>compressor bleed-air and/or electric heating elements.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>mechanical ice scrapers.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "452580f5-7c13-7871-5fd4-6f55eb5d89d3",
+            "query": "<span style=\"display: block;\"><p>The <em>rubber strips</em> on the inner&nbsp;leading edge of the <u>propeller blades</u> are...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>de-icing boots.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>erosion shoes.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>electric heating elements.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>porous glycol filled elements.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e381da25-a299-50da-44d4-288b8109c344",
+            "query": "<span style=\"display: block;\"><p>A <u>weeping wing</u> is a wing...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>with a fuel leak.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>on which&nbsp;condensation&nbsp;water droplets form due to the cold-soaked fuel inside.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>from which ice melts off.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>with a&nbsp;porous leading edge through which a de-icing fluid is pumped.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "6f827b51-6e61-82f0-292d-67f343816778",
+            "query": "<span style=\"display: block;\"><p>Which statement is true regarding the <u>rubber boots</u> that cover the leading edges of wings and stabilisers?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The boots are filled with hot bleed-air that melt ice.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The boots are pressurised by liquid glycol.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The boots are electrically vibrated to prevent ice.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The boots are alternately inflated and deflated to break ice.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "fce49783-9092-5d33-2793-083cf62a900c",
+            "query": "<span style=\"display: block;\"><p>The operating principle of an <u>ice detector</u>&nbsp;may be&nbsp;based on...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>ice disturbing&nbsp;a resonance frequency.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>ice blocking&nbsp;the pitot tube.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the outside air temperature dropping below 0 °C.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ice visible on the windshield wipers.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "12cc4fcf-d92b-03b3-6544-39d2466bc0e8",
+            "query": "<span style=\"display: block;\"><p>In the <u>fuel system</u> of a small&nbsp;<em>single engine piston</em> aircraft like a TB-10,&nbsp;there...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>are no electric fuel pumps.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>is an electric booster pump in each tank.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>is one&nbsp;electric primer pump.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>is a booster pump in each tank and a primer pump in the fuel line to the engine.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ed885608-9b0f-147e-866f-5c4980ab4fc8",
+            "query": "<span style=\"display: block;\"><p>To equalise fuel levels during a f<u>uel asymmetry</u>&nbsp;alert...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the crossfeed function must be activated.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the fuel transfer function must be activated.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the fuel dump system must be activated</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the booster&nbsp;pumps&nbsp;must be activated.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "24677201-7aa6-e632-d2cd-edc25e97071d",
+            "query": "<span style=\"display: block;\"><p><u>Fuel quantity</u> in <em>large aircraft</em> is measured through...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>floats connected to variable resistors.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>several floating capacitors connected in series.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>floats connected to&nbsp;variable capacitors.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>several fixed&nbsp;capacitors connected in parallel.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "b5714cd5-8692-99a7-0115-a2197ef1c566",
+            "query": "<span style=\"display: block;\"><p>The total <u>resistance</u> (Rt) of two resistors connected in <em>parallel</em> can be calculated by...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1/Rt = 1/R1 + 1/R2.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Rt = 1/R1 + 1/R2.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Rt = R1 + R2.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1/Rt = R1 + R2.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b065f34f-4aac-692e-30af-c36bded07ca1",
+            "query": "<span style=\"display: block;\"><p>What is the&nbsp;difference between a <u>circuit breaker</u> and a <u>fuse</u>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>A circuit breaker protects against too high currents; a fuse protects against too small currents.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A circuit breaker acts as a current stopper;&nbsp;a fuse acts as a current limiter.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A circuit breaker can be replaced by the flight crew;&nbsp;a fuse not.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A circuit breaker is resettable;&nbsp;a fuse not.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "8d6e76b9-a149-616e-f8d3-d744fed7eda6",
+            "query": "<span style=\"display: block;\"><p><img alt=\"\" height=\"137\" src=\"https://eu1files.itslearning.com/data/350/9/021%20EL/toggle switch.jpg\" style=\"padding:5px 5px;\" width=\"192\"></p><p>The picture shows a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>circuit breaker.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>toggle switch.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>fuse.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>rocker switch.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "99c91e6b-4ddd-972c-b42a-38a9c2232b9a",
+            "query": "<span style=\"display: block;\"><p>A landing light of 140 W is connected to 28 VDC.</p><p>What is the most <em>probable</em> rating of its <u>circuit breaker</u>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>5 A.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2.5 A.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>10 A.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1&nbsp;A.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "331818ac-23da-5b83-09cc-8195c7321875",
+            "query": "<span style=\"display: block;\"><p>The picture below shows the <u>electric symbol</u> of&nbsp;a...</p><p><img alt=\"\" height=\"242\" src=\"https://eu1files.itslearning.com/data/350/9/021%20EL/cap_sign_w.jpg\" style=\"padding:5px;\" width=\"400\"></p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>battery cell.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>antenna.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>contactor.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>capacitor.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "0d4e220b-6957-fb0f-41b8-0a34e349e573",
+            "query": "<span style=\"display: block;\"><p>A <u>diode</u> can be compared with a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>non-return valve (check valve).</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>fuse.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pressure relief&nbsp;valve.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pressure regulating valve.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4747c81a-9737-134d-6a7b-71a1cdf69d79",
+            "query": "<span style=\"display: block;\"><p>A <em>disadvantage</em> of a <em>cold</em><u>battery</u> is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>frozen electrolyte.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>frozen electrons.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>low voltage.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>reduced capacity.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "3841cd59-2656-ad07-6661-433476b4316d",
+            "query": "<span style=\"display: block;\"><p>A l<u>ead-acid battery</u> with six (6)&nbsp;cells connected in series,&nbsp;is being charged with...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>12 V.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>14 V.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>24 V.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>28 V.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4ecc186c-3d8c-9add-7923-421c1cd478fa",
+            "query": "<span style=\"display: block;\"><p>A <u>commutator</u> installed in a DC generator or DC motor...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>reverses the&nbsp;polarity each revolution.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>converts DC into AC.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>prevents arcing due to brush wear.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>controls the magnetic field strength.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bfeeb4b7-2f4c-ef9f-4886-9089bf0ba9a1",
+            "query": "<span style=\"display: block;\"><p>Regarding a <u>DC generator</u>, look at the following two situations:</p><ol><li>The voltage in a coil when a magnet is turning around;</li><li>The voltage after commutation.</li></ol><p>Which statement is correct?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 and 2 are both AC.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 and 2 are both DC.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 is AC and 2 is DC.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1 is DC and 2 is AC.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "5d857341-c8f1-7787-f1f1-64066098e94e",
+            "query": "<span style=\"display: block;\"><p>A <u>transformer</u> converts AC...</p><ol><li>voltages;</li><li>frequencies;</li><li>power.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 and 2.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>only 1.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>only 2.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2 and 3.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ee3d2abf-16bc-8dc9-ca03-cdcb4ad87571",
+            "query": "<span style=\"display: block;\"><p>Given an aircraft with a <u>split-bus electrical system</u>.</p><p>When there is a <em>single&nbsp;generator failure</em>, power is <em>automatically</em> restored through...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>starting&nbsp;the APU.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>AC bus transfer to the working generator via&nbsp;bus tie breakers.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>load shedding.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>switching over to&nbsp;the battery-driven emergency inverter.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "28898eae-45ab-e4ad-0834-385f40845b30",
+            "query": "<span style=\"display: block;\"><p>Situation:</p><p>The <u>generator</u> of a small, single-engine&nbsp;piston&nbsp;aircraft fails, and the&nbsp;<u>battery</u>&nbsp;takes over.</p><p>&nbsp;</p><p>How does the total consumed current <em>change</em>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>It decreases by this event.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>It increases by this event.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>It is not affected by this event.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>At first it increases but thereafter it decreases by this event.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bf0d29e2-c7d6-1332-602d-04721262017e",
+            "query": "<span style=\"display: block;\"><p>When&nbsp;<u>electrical consumers</u> are set to ON one by one,&nbsp;the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>resistance&nbsp;increases.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>resistance decreases.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>voltage increases.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>voltage decreases.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "524fa6a5-6666-7a88-d3e6-1e1f351ae51e",
+            "query": "<span style=\"display: block;\"><p>A <u>loadmeter</u> with a <em>positive- and a negative</em> scale is used in the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>generator feeder cable.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>battery feeder cable.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>INV feeder cable.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>starter motor&nbsp;feeder cable.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ce355ff9-a0b3-f75f-d30a-b8ea3ce0e30a",
+            "query": "<span style=\"display: block;\"><p>When the <u>battery loadmeter</u> shows '+24', the battery...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>has a capacity of 24 Ah.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>is fully charged to 24 V.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>will be discharged in 24 minutes.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>is being charged with 24 A.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "fb65cd2d-b1e6-d163-60b8-0cfba3b5b0d0",
+            "query": "<span style=\"display: block;\"><p>What is the name of the <em>small heat engine</em> that&nbsp;provides <u>electrical power</u> before the main engines are started?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>TRU.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>IDG.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>RAT.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>APU.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "abe3468c-da13-25d8-7938-9ab267199835",
+            "query": "<span style=\"display: block;\"><p>Which <u>DC motor</u> has a <em>decreasing torque</em> with <em>increasing armature (rotor)&nbsp;speed</em>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>series&nbsp;motor</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>shunt motor</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>compound-wound motor</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>parallel motor</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "0b61d01e-56fd-1f47-2ab3-8ef695cd748e",
+            "query": "<span style=\"display: block;\"><p>A <u>DC motor</u> with its field windings in&nbsp;<em>series</em> with the armature...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>rotates in the same direction even when the polarity is changed.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>has its highest torque at high&nbsp;rpm.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>lacks sliprings and brushes.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>needs a commutator to change AC in DC.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "318b4485-f3f8-8cf2-6148-5679703ff046",
+            "query": "<span style=\"display: block;\"><p>A six cylinder, <u>horizontally opposed piston engine</u> uses the following operating principle...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>two-stroke cycle.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>four stroke cycle.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>six-stroke cycle.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>one-stroke cycle.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fdf63f1e-e012-9e0c-bd11-b009ca4885f7",
+            "query": "<span style=\"display: block;\"><p>Which statement regarding to the <em>theoretical </em><u>Otto cycle</u> is true?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>In order to produce power the piston engine makes only two strokes instead of four.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Only one spark plug is used instead of two.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Combustion takes place at constant pressure instead of constant volume.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>There is no valve overlap.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "76c34cb4-ba89-1cf7-3919-830ee769fbf0",
+            "query": "<span style=\"display: block;\"><p>At the <em>beginning</em> of the <u>inlet stroke</u> of&nbsp;the practical, modified Otto cycle, the&nbsp;status of the valves is as follows:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><ul><li>inlet valve closed;</li><li>outlet valve closed.</li></ul></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ul><li>inlet valve open;</li><li>outlet valve closed.</li></ul></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ul><li>inlet valve closed;</li><li>outlet valve open.</li></ul></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ul><li>inlet valve open;</li><li>outlet valve open.</li></ul></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "e3d20a47-663f-328a-c978-e7a926fc734e",
+            "query": "<span style=\"display: block;\"><p>The&nbsp;correct formula that defines the&nbsp;<u>compression ratio</u> for piston engines is...</p><p>&nbsp;</p><p>Note:</p><ul><li>Vc = clearance volume;</li><li>Vs = swept volume;</li><li>MAP = manifold pressure;</li><li>Pcomb = combustion pressure.</li></ul></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>(Vc+Vs) / Vc.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Vs / (Vc+Vs).</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>MAP / Pcomb.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Pcomb / MAP.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "dee19b73-0f03-d753-9d89-6d59ce517cc6",
+            "query": "<span style=\"display: block;\"><p><u>Thermal efficiency</u> depends on...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>propeller diameter.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>airspeed.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>compression ratio.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>propeller blade angle.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d4d1b2f4-806a-fb24-c66b-27bb90516b05",
+            "query": "<span style=\"display: block;\"><p>What is the correct sequence in retarding&nbsp;the <u>engine control levers</u> when <em>decreasing</em> piston engine power?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Mixture &gt; Propeller &gt; Throttle.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Throttle &gt; Propeller &gt; Mixture.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Propeller &gt; Mixture &gt;&nbsp;Throttle.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Throttle &gt; Mixture &gt; Propeller.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4b0114ed-26b7-bbd8-36f8-c705c9a9a11b",
+            "query": "<span style=\"display: block;\"><p>If <u>pre-ignition</u> occurs in a piston engine, the...</p><ol><li>specific fuel consumption decreases;</li><li>thermal efficiency increases;</li><li>cylinder head temperature increases.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 only.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2 only.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>3 only.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1, 2 and 3.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2dfd3ee5-6f26-8829-72b5-d99979addaef",
+            "query": "<span style=\"display: block;\"><p><u>Pre-ignition</u> in piston engines is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the exploding of the mixture rather than the&nbsp;burning.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>advancing the ignition to improve the thermal efficiency.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>setting the ignition switch to ON&nbsp;before fuel is added.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the ignition of the air-fuel&nbsp;mixture before the spark is released.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>advancing the ignition spark during engine start.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>advancing the ignition spark to enhance the volumetric efficiency.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>advancing the ignition spark to enhance the thermal efficiency.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>spontaneous ignition of a fuel-air mixture before the sparking plug is fired.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "67556f4c-7102-d948-31c4-559cb02b9d0b",
+            "query": "<span style=\"display: block;\"><p>On a <u>piston&nbsp;engine</u>, the&nbsp;<em>mechanically-driven&nbsp;fuel pump</em>...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>is the main fuel pump.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>can be set to off from the cockpit.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>backs-up the electric driven booster pump.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>blocks the fuel flow to the engine when off.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1506c43e-cab9-c984-bc29-b0255d914a10",
+            "query": "<span style=\"display: block;\"><p>One of the causes of <u>carburettor icing</u> in a piston engine&nbsp;is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>cooling of the fuel in the heat exchanger.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>decrease of pressure in the venturi.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>condensation of the fuel.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ram effect of the mixture against the throttle valve.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "12e042dc-42f9-ccfb-e829-f09dba7bd9d6",
+            "query": "<span style=\"display: block;\"><p>To ensure a reliable <em>idle</em> operation, a <u>carburettor</u> requires a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>slow running duct.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>diffuser.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>automatic mixture control.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pressure balance duct.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c55e962a-f35f-d9e4-8538-d3af1bd5fddb",
+            "query": "<span style=\"display: block;\"><p>The <em>routing</em> of a <u>diesel</u> fuel particle from the tank to the combustion chamber is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>booster pump&nbsp;&gt; filter &gt; injector &gt; common rail.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>booster pump &gt; filter &gt; pressure pump &gt; common rail &gt; injector.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>filter &gt; pressure pump &gt; fuel control unit &gt; common rail &gt; injector.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>booster pump &gt; carburettor &gt; inlet manifold &gt; intake valve.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6a92c463-8c94-46c3-5be7-54b322abd71b",
+            "query": "<span style=\"display: block;\"><p>Which statement is correct regarding <em>air cooling</em> of a <u>piston engine</u>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The engine cowling does not affect the cooling.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The pilot cannot&nbsp;control the cylinder head temperature.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>An air cooling system is complex and therefore unreliable.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Compared with a liquid cooled engine, an air cooled engine will undergo faster temperature changes.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "33832140-6f6c-bea3-fc3e-41106632b88e",
+            "query": "<span style=\"display: block;\"><p>Which statement regarding the position of the <u>cowl flap</u> of a piston engine is correct?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Open on ground; closed in flight.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Open during climb; closed during descent.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Closed during taxiing; open during cruise.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Open&nbsp;during begin&nbsp;take-off; closed during final approach.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ef18abbb-84c6-9921-eab1-2a110edd9a39",
+            "query": "<span style=\"display: block;\"><p>Compared&nbsp;to&nbsp;liquid-cooled&nbsp;petrol engines,&nbsp;<u>air-cooled</u>&nbsp;<em>petrol</em> engines...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>have a less constant&nbsp;engine temperature.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>are of a&nbsp;heavier construction.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>have&nbsp;a&nbsp;more complex construction.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>operate at a lower cylinder head temperature.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "90e0fdd7-a93f-e47e-a796-13e4a84e35aa",
+            "query": "<span style=\"display: block;\"><p>An advantageous property of <u>lubricating oil</u> for piston engines is a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>high viscosity.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>low heat capacity.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>high temperature.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>good adherence to metals.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "61e0bd33-0ec0-fc10-c92f-5542d05998aa",
+            "query": "<span style=\"display: block;\"><p>In a piston engine with a <u>dry sump system</u> the oil pressure is measured...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>in the sump itself.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>in the oil tank.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>downstream the oil pump.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>upstream the oil pump.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6aa0c531-9c6e-7d15-2cb7-bd0d79ee8755",
+            "query": "<span style=\"display: block;\"><p>During flight the <em>condition</em> of the <u>lubricating system</u> system of a piston engine can be checked by means of an oil:</p><ol><li>pressure indicator;</li><li>temperature indicator;</li><li>quantity indicator;</li><li>flow indicator.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 only.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 and 2.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1, 2 and 3.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3 and 4.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e2101bd0-ac8c-f84b-2feb-cfd8da319d9a",
+            "query": "<span style=\"display: block;\"><p>An <u>impulse coupling starter</u> is a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>electric starter motor for piston engines.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>device that &nbsp;delays and strengthens the generation of high energy impulse inside the magneto.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>solenoid operated clutch that connects the starter motor to the gearbox during engine start.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>loaded spring that is unwinded during engine start to start initial rotation of the crankshaft.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "72718be7-7aa7-ebcc-ee59-6376cad44e35",
+            "query": "<span style=\"display: block;\"><p>The rpm of a&nbsp;six-cylinder&nbsp;four-stroke engine is 3000.</p><p>How many times per second does the&nbsp;<u>distributor-arm</u>&nbsp;in the magneto close a contact?</p><p>&nbsp;</p><p>Note:<br>In the future there will be no EASA LO for this question</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>150</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>25</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>50</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>100</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4279fd1f-739a-8626-3601-c1a19d046b8f",
+            "query": "<span style=\"display: block;\"><p>How many <u>ignition systems</u> can you find on a horizontally-opposed six-cylinder <em>piston engine</em> of a twin-engined aircraft?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>two</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>four</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>six</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>twelve</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b5e9570f-4f2a-cff1-4e92-1e84ae0ccbeb",
+            "query": "<span style=\"display: block;\"><p>In a <u>simple carburettor</u>, the mixture will become richer if the MAP increases because the pressure drop in the venturi is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>proportional to the square of the flow speed (v<sup>2</sup>).</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>proportional to twice&nbsp;the flow speed (2v).</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>proportional with the square root of the flow speed (sqrt v).</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>inversely proportional with the flow speed (1/v).</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "45ec2092-fcf4-c6f6-1ccd-cedf94106e00",
+            "query": "<span style=\"display: block;\"><p>The <em>purpose</em> of <u>leaning</u> a piston engine is to increase the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>EGT.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>cooling.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>service life.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>range.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "c3f8a259-b767-9abc-d4ae-91e77b3e9ecf",
+            "query": "<span style=\"display: block;\"><p>Which&nbsp;parameter is <em>directly</em> influenced&nbsp;when <u>leaning</u> the engine?</p><ol><li>Exhaust Gas Temperature (EGT):</li><li>Fuel Flow (FF);</li><li>Revolutions Per Minute (RPM);</li><li>Manifold Air Pressure (MAP).</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 only.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 and 2.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1, 2 and 3.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3 and 4.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2a86b71a-cdd4-f471-6bc4-d3e12d551076",
+            "query": "<span style=\"display: block;\"><p>How does the <u>governor</u> of a constant speed propeller keep the rpm constant when the throttle is advanced?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The throttle advance is offset by leaning the mixture.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The ignition timing will be adapted to the throttle position.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The propeller blade angle will be increased.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>A continuous variable reduction gearing is installed in the propeller hub.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6d115b1b-b0e0-8430-5b90-395686c90520",
+            "query": "<span style=\"display: block;\"><p>Which of the drawings below represents the situation of the propeller blade correctly?</p><p>&nbsp;</p><p><img height=\"151\" src=\"https://eu1files.itslearning.com/data/350/9/)21%20PP/4 prop hub blade angles.png\" style=\"padding: 5px;\" width=\"400\"></p><p>Note:</p><p>v = total speed of the propeller hub relative to the air particles;</p><p>u = speed of the propeller section due to the revolving motion;</p><p>a&nbsp; = angle of attack of the propeller section;</p><p>b&nbsp; = blade angle.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Drawing 1.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Drawing 2.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Drawing 3.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Drawing 4.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2b2b0da1-f2fa-73e2-fd4e-1bbf4acc3420",
+            "query": "<span style=\"display: block;\"><p>Which statement regarding a <u>multi-engined propeller&nbsp;system</u> that is provided with counterweights and with a spring that supports their action&nbsp;is true?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The spring and counterweight support the centrifugal turning moment (CTM).</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The counterweight prevents the centrifugal latch to come in operation at high rpm.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>If the hydraulic pressure in the propeller actuator bleeds away, the propeller will be feathered.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>The function of the spring and the counterweight is to unfeather the propeller.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "505cc2b0-6a5e-b9fa-a281-9eb58daa7ec6",
+            "query": "<span style=\"display: block;\"><p>When a piston&nbsp;engine with a fixed pitch propeller&nbsp;delivers 100 <u>brake horsepower</u>&nbsp;at 1000 rpm, the engine will most probably deliver at 2000 rpm...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>100 bhp as the power does not depend on the rpm.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>180 bhp.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>200 bhp.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>220 bhp.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b9deca3b-0bac-954e-3b06-8834712c3805",
+            "query": "<span style=\"display: block;\"><p>The reason for the decrease in piston engine <u>power</u> at higher altitudes is the <em>decrease</em> in...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>air temperature.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>air pressure.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>compression ratio.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>mixture ratio.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ef5927c3-4dac-8d6e-5caf-51716c377951",
+            "query": "<span style=\"display: block;\"><p>The <em>purpose</em> of a <u>supercharger</u> in a piston engine is to...</p><p>&nbsp;</p><p>Note:</p><p>In the future there will be no EASA LO for this question.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>increase the manifold air pressure.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>increase the mixture ratio.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>decrease the probability of carburettor icing.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>decrease the fuel flow.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "38b038d6-ee11-5b21-7fa5-1ccd4cb008f0",
+            "query": "<span style=\"display: block;\"><p>A <u>turboprop</u> is a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>gasturbine engine that drives a propeller.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>turbofan engine without a duct.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>piston engine with a turbocharger.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>turboshaft engine that drives a ships propeller.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a8cba001-2677-f98f-eaba-670bb1b4a7fe",
+            "query": "<span style=\"display: block;\"><p>The <u>fan</u> of a twin-spool <u>gas turbine engine</u> is driven by the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>free power turbine.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>low pressure turbine.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>accessory gearbox.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>low pressure compressor.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "eb3d07ff-3185-4820-6469-c641966626cf",
+            "query": "<span style=\"display: block;\"><p>In the <u>air intake</u> of a turbofan engine the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>airspeed decreases.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>static air temperature decreases.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>total air temperature increases.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>total pressure decreases.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cb887640-675f-20c0-7428-9b439dc73756",
+            "query": "<span style=\"display: block;\"><p>The early-type, analogue hydro-mechanical <u>fuel control unit</u> (FCU) adjusts the fuel flow in order to obtain a selected...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>EGT.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>SFC.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>N2.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>N1.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ac71d2ca-fb1f-2db1-f255-94eee8d78299",
+            "query": "<span style=\"display: block;\"><p>If the <u>exhaust</u> duct becomes separated from the turbine engine, the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>noise level behind the engine increases.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>gas temperature behind&nbsp;the&nbsp;engine decreases.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>flow velocity behind the&nbsp;engine&nbsp;decreases.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>static pressure behind the engine decreases.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f80fbefb-a314-2f05-ce33-0ca27385d228",
+            "query": "<span style=\"display: block;\"><p>Air from the engine <u>compressor</u> is used&nbsp;<em>internally</em> for...</p><ol><li>pressurisation of labyrinth seals;</li><li>ACC (Active Clearance Control) via the bird cage;</li><li>cooling;</li><li>starting;</li><li>combustion;</li><li>pressurisation of the oil tank</li><li>anti-icing.</li></ol><p>The alternative that contains most correct answers is:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1, 2, 3 and&nbsp;4.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 3, and 5.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>2, 3, 4&nbsp;and 5.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>4, 5, 6 and 7.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "db42aa99-ca6c-54bb-3a2a-18fc3662ffe9",
+            "query": "<span style=\"display: block;\"><p><u>Ground starting</u> of a turbofan engine is done by creating an airflow across the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>high pressure turbine.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>ram air turbine.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>fan.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>starter turbine.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "5c8ba738-160c-2469-25f3-fbb3cb6fdd7f",
+            "query": "<span style=\"display: block;\"><p>When comparing with Jet B fuel, <u>Jet A</u>&nbsp;fuel...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>has a lower density.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>is more volatile.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>freezes at a higher temperature.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>is better suited&nbsp;for cold climates.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "feeb4425-9d3d-b276-bd08-97fd4fbf3f9e",
+            "query": "<span style=\"display: block;\"><p>\"<u>Cranking</u>\" the gas turbine&nbsp;engine is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>causing rotation of the N2 shaft without combustion.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>de-rating the engine via the FADEC.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>de-activation of the thrust reverser.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>attaching the engine to the airframe.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1660240a-e1d7-ea4b-49b8-a109603029ec",
+            "query": "<span style=\"display: block;\"><p>What can possibly happen when&nbsp;the <u>starter valve</u>&nbsp;closes too late or does not close at all?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The starter motor may be heavily damaged.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>The engine will accelerate too fast leading to a hot start.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The engine and gearbox will&nbsp;be heavily damaged.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Pneumatic pressure cannot be used for other consumers.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "16b9e47b-0a90-60fb-0894-0a8d283d68ec",
+            "query": "<span style=\"display: block;\"><p>The <u>power lever</u> of a <em>modern turboprop</em> with <em>free power turbine</em> controls...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Propeller torque and propeller rpm.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Engine torque and engine rpm.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Gearbox torque and gearbox rpm.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Free turbine torque and free turbine rpm.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "626b6c18-8590-fd52-7287-a94540d0ce62",
+            "query": "<span style=\"display: block;\"><p>Which statement regarding<u>&nbsp;net thrust</u> (Tn) and&nbsp;gross thrust (Tg) is true?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Tn is always higher than Tg.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Tn is always lower than Tg.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>In flight Tn&nbsp;equals Tg.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>On ground&nbsp;Tn equals Tg.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ec97127c-7315-8a72-7c37-57f8af63ea6c",
+            "query": "<span style=\"display: block;\"><p><u>Reduced take-off thrust</u> can be <u>manually</u> set in an aircraft by...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>operating a cam on the throttles.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>selection of a lower fuel flow.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>selection of an assumed temperature.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>selection of a lower N2.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "61c5ba86-bc06-f532-47b6-638fc9871e32",
+            "query": "<span style=\"display: block;\"><p>The <u>specific power</u> (power per unit weight)&nbsp;of a turbine engine is higher than that of a piston engine, due to...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the combination of a high rpm and high mass-flow of air.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the much higher thermal efficiency.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the high compression ratio and the high turbine inlet temperature.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the much higher calorific value of kerosene compared to avgas.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b6206803-27d1-1ba9-2e59-a162423c962b",
+            "query": "<span style=\"display: block;\"><p>The <u>APU</u> is started by a(n)...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>ram air turbine.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>electric starter.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>pneumatic starter.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>hydraulic starter.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "66e8cf89-87bc-0c5c-39dc-43c4db355df7",
+            "query": "<span style=\"display: block;\"><p>Which of the following types of <u>smoke detector</u>&nbsp;are being used in aircraft <em>toilets</em>?</p><ol><li>light source with photo cell;</li><li>ion detector;</li><li>CO detector;</li><li>coal mine canary.</li></ol><p><img height=\"298\" src=\"https://eu1files.itslearning.com/data/350/9/021%20AS/Fire%20protection/CanaryInACoalMine_2.jpg\" style=\"padding:5px;\" width=\"400\"></p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 only.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 and 2.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1, 2 and 3.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3 and 4.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e1c1bd4f-1542-bb0b-4b4d-ba6cd00dd040",
+            "query": "<span style=\"display: block;\"><p>Where in the aircraft&nbsp;<u>smoke detectors</u>&nbsp;can be found?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>In the ceiling of flight compartment and passenger compartment.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>In the floor between passenger compartment and cargo compartment.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Behind&nbsp;the cowling of&nbsp;powerplant&nbsp;and APU.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>At or near the ceiling of toilets and cargo compartments.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "2e6ce0b8-50db-8255-dac6-8d680da04c76",
+            "query": "<span style=\"display: block;\"><p>The <em>lavatory</em>&nbsp;<u>smoke detector</u> is located...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>around the toilet walls.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>at&nbsp;the ceiling.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>near the water heater.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>just above the waste bin.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d6b7ff3e-0b72-71d1-887e-bd72fda6447a",
+            "query": "<span style=\"display: block;\"><p>When the <u>engine fire handle</u> is pulled and rotated, HALON is let into the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>combustion chamber.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>air intake.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>nacelle.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>pylon.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ac9474c0-b02c-cf64-72b3-1f3843ee037f",
+            "query": "<span style=\"display: block;\"><p>A <u>rain repellant</u> system prevents the adherence of water droplets to the windshield by...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>a fluid that is sprayed onto the windshields from the outside.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a thin, removable transparent plastic film that is attached to the outside of the windshield.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>an electrically heated outer pane of the&nbsp;windshield.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>bleed-air that is sprayed onto the windshields from the outside.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c5e257e1-4005-fdef-b3c3-a2fca3936983",
+            "query": "<span style=\"display: block;\"><p><u>Oxygen masks</u> will be&nbsp;<em>automatically</em> presented in the passenger cabin&nbsp;when the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>aircraft climbs through 20,000 ft.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>cabin climbs through&nbsp;8,000 ft.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>cabin&nbsp;climbs through 10,000 ft.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>cabin&nbsp;climbs through 14,000 ft.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "382e62e4-aa25-cb8e-7061-e51c8e71f453",
+            "query": "<span style=\"display: block;\"><p>A turbofan engine has a&nbsp;<u>compressor</u>...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>to cool the inlet of combustion chamber and&nbsp;turbine.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to drive&nbsp;the turbine and the fan.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to supply&nbsp;the pneumatic system.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to increase the thermal efficiency.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "11117aeb-23a8-e606-55e6-b6ab2c67787d",
+            "query": "<span style=\"display: block;\"><p>Dural is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>a composite material with a duration that lasts for many&nbsp;years.&nbsp;</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Aluminium with Copper.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>iron&nbsp;reinforced with carbon.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a&nbsp;lightweight and very stiff construction metal.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "04e0419c-3e04-8441-011c-2508af4df196",
+            "query": "<span style=\"display: block;\"><p><u>Monocoque</u> constructions may employ...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>doublers.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>frames.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>stringers.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>sandwich skin.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "5ab68280-7c29-ce9b-25fb-033096039f3c",
+            "query": "<span style=\"display: block;\"><p>How is redundancy achieved in the <u>hydraulic syste</u>m of a <em>large</em> aircraft?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Installing multiple systems with alternate pressure sources.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Designing a simple, single system with mechanical backups.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Ability to pressusrise the system with a hand pump on the flight deck.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pressurising the system with bleed-air in the event of a hydraulic leak.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8942a9e7-94f5-db66-fc65-b047beb6c450",
+            "query": "<span style=\"display: block;\"><p>Nose-wheel shimmy occurs when…</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>there is combination of lateral imbalance and play during taxiing.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the nosewheel is braked during retraction.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the nosewheel is deflected during touch down.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the speed of the nosewheel is lower than the groundspeed.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cf63291d-d75e-062e-3885-44947710690e",
+            "query": "<span style=\"display: block;\"><p>Complete the following two statements.</p><ol><li>Nose wheel shimmy is a condition where the nose wheel undergoes an oscillation in the (1) plane.</li><li>To minimise the effects, a shimmy damper is installed between (2).</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><ol>   <li>horizontal and vertical plane.</li>   <li>the torsion links.</li>  </ol>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol>   <li>horizontal and vertical plane.</li>   <li>the piston and the cylinder of the oleo strut.</li>  </ol>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol>   <li>vertical plane.</li>   <li>the piston and the cylinder of the oleo strut.</li>  </ol>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol>   <li>horizontal plane.</li>   <li>the fuselage and the&nbsp;oleo strut.</li>  </ol>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "d131235b-ee5f-f78a-c32b-94c37058651d",
+            "query": "<span style=\"display: block;\"><p>State the advantages of a <u>Fly-By-Wire</u> system <em>in comparison wit</em>h a conventional flight control system: &nbsp;</p><ol><li>Improved aircraft handling;</li><li>Rapid and accurate responses to pilot input;</li><li>Fuel saving;</li><li>Reduced weight;</li><li>Artificial feel;</li><li>Full functioning primary controls in the event of complete system failure;</li><li>Reduced maintenance costs due to less mechanical components.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1, 2, 3, 4 and&nbsp;7.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1, 2, 3, 4, 5 and&nbsp;6.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>3, 4 and&nbsp;6.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>3, 4, 5, 6 and 7.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9b6cba6d-2dc5-23fe-216a-187d3b24a7d5",
+            "query": "<span style=\"display: block;\"><p>Amongst other components, an <u>aircraft&nbsp;fuel system</u> consists of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>an electric-driven pump.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>an accumulator.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a power transfer unit.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a flow sensor.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ff1752d2-bd48-1b21-5ce5-4f89ec6fc2fd",
+            "query": "<span style=\"display: block;\"><p>Explain the concept and basic principles of <u>hydraulics</u>:</p><p>Hydraulic systems transmit power by moving (1) from one place to another, the&nbsp;systems obey (2) Law and pressure in aircraft is usually measured in (3).</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><ol><li>air,</li><li>Bernoulli's,</li><li>hecto Pascal (hPa).</li></ol></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol><li>liquid,</li><li>Pascal's,</li><li>pounds per squared inch (psi).</li></ol></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><ol><li>fluid,</li><li>Newton's,</li><li>Newton's / meter squared (N/m²).</li></ol></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><ol><li>electrons,</li><li>Ohm's,</li><li>Volts (V).</li></ol></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "46f3a6af-710c-b861-bb6f-a70339116362",
+            "query": "<span style=\"display: block;\"><p>Why do <u>windshields</u> consist of more layers than side windows?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>To take up the differential pressure load.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>To increase their impact resistance.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>To enable heating.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>To prevent fatigue.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9cbb17c7-bb41-ca2c-b30d-d5af08673e17",
+            "query": "<span style=\"display: block;\"><p>A <em>cargo</em><u>fire extinguishing system</u> uses…</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>an automatically activated, heat-based melt-plug.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>an automatically&nbsp;activated, pressure-based gas-tube.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a manually activated, electrically-based&nbsp;explosive squib.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a manually activated, electrically-based solenoid.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fb9768c7-1b9b-cef6-bdc8-852e47eb2a69",
+            "query": "<span style=\"display: block;\"><p>Explain the need for a 'feel system' in a fully powered <u>flight control system</u>.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>A feel system provides valuable force feedback to the pilot.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>A feel system provides aircraft the ability to manoeuvre with proportional output to input.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A feel system prevents flight envelope excursions.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A feel system ensures the pilot receives the full force of the aerodynamic pressures received by the control surfaces.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1b582920-70f1-4a00-5ac7-b7a9f569fb0c",
+            "query": "<span style=\"display: block;\"><p>The pumps in the <u>fuel tanks</u> of large transport aircraft are...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>multi-piston pressure pumps.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>axial booster pumps.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>radial pressure pumps.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>centrifugal booster pumps.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "644e60cf-9c12-4ac3-8fe3-9f274497ac4a",
+            "query": "<span style=\"display: block;\"><p>The type of fluid used in the <u>hydraulic system</u>&nbsp;of a <em>large</em> transport aircraft is…</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>mineral.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>vegetable.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>synthetic.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a mix of mineral and synthetic.</p></span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "18690e9b-5cdd-27a3-73c4-bcd9c666abb6",
+            "query": "<span style=\"display: block;\"><p><u>Ground steering</u>&nbsp;in <em>large</em> aircraft may be controlled through...</p><ol><li>rudder-pedal linkages,</li><li>brake-pedal linkages,</li><li>a separate steering wheel.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 only.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>3 only.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 and 3 only.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2 and 3.</p></span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "3f0424d1-7e3e-ee6b-c260-8367851335b4",
+            "query": "<span style=\"display: block;\"><p>Which statement concerning the <em>passenge</em>r <u>oxygen system</u> is true?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The chemical&nbsp;reaction starts as soon as the masks drop down.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The lanyard is shorter than the hose.</p></span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>The cartridge is fired with an&nbsp;electric impulse.</p></span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The rebreather bag must prevent hyperventilation.</p></span>",
+                    "format": "html"
+                }
+            ]
+        }
+    ]
+}

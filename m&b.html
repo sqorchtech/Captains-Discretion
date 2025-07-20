@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts_m&b.js" defer></script>
+    <title>M&B</title>
+</head>
+<body>
+    <nav class = "navbar">
+        <ul>
+            <li><a href="asp.html">ASP</a></li>
+            <li><a href="gennav.html">General Navigation</a></li>
+            <li><a href="hpl.html">HPL</a></li>
+            <li><a href="instrumentation.html">Instrumentation</a></li>
+            <li><a href="m&b.html" class="selected-nav">M&B</a></li>
+        </ul>
+
+    </nav>
+
+    <div class="search-wrapper">
+        <label for="search"></label>
+        <input type="search" id="search" placeholder="Search for Answers" data-search>
+    </div>
+
+    <div class="question-cards" question-card-container></div>
+
+    <template data-question-card>
+        <div class="card">
+            <div class="header" data-header></div>
+            <div class="body" data-body></div>
+        </div>
+    </template>
+</body>
+</html>

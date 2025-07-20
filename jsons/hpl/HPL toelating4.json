@@ -1,0 +1,801 @@
+{
+    "uuid": "179026c5-3903-4ca8-a506-8bd7a735ad0a",
+    "title": "HPL Examen 234",
+    "questions": [
+        {
+            "uuid": "8a9f1c10-20a4-7dbd-615b-f97501dbbcb6",
+            "query": "<span style=\"display: block;\"><p>What is an important aspect of situational awareness?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The pilot perceives the instant and immediate situation both inside and outside the cockpit.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A&nbsp;pilot‘s perception equals reality.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A&nbsp;pilot is sure that the situation both inside and outside the aircraft is correct.</p>    <p>&nbsp;</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The pilot perceives the situation both inside and outside the aircraft.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9cbb129f-9ccb-0c20-06ce-6704bba6183f",
+            "query": "<span style=\"display: block;\"><p>in the Alarm stage of response to stress what does the body do?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Attempts to maintain the body's arousal state to the continuing stress.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Recognises the stressor and prepares the body for action.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Recognises danger and slows the body down via the autonomic system.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Attempts to repair any damage caused by the stress.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9f69cce3-468d-e05b-1574-19528abf3d39",
+            "query": "<span style=\"display: block;\"><p>Which of the following are the most favourable solutions to manage phases of hypovigilance?</p><p>1) Keep active open communication between man and machine.<br>2) Use of amphetamines.<br>3) Reducing the intensity of the light.<br>4) Organising periods of rest during the flight.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1, 3</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>3, 4</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 4</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a1328062-bb78-98f8-fa7d-55206cc6c1bd",
+            "query": "<span style=\"display: block;\"><p>What are the two different types of illusion?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Visual and somatogyral</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Vestibular and occulargravic</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Vestibular and visual</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Visual and occulargravic</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "690369f8-f161-d698-1d91-03fe76cd5530",
+            "query": "<span style=\"display: block;\"><p>What is the Time of Useful Consciousness for a seated person at rest at 40000 ft during a decompression?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 - 2 min</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>9 - 12 sec</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>15 - 20 sec</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>5 sec</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2bbacbb1-12c9-1df1-dc34-11c2df9ee362",
+            "query": "<span style=\"display: block;\"><p>What is a main objective&nbsp;of the multi-crew concept?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Generation of situational awareness so that correct decisions can be made.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Discussions with crew members so that correct decisions can be made.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Generation of a&nbsp;social environment.</p>    <p><br>  &nbsp;</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Pilots have to know how the aircraft works to ﬂy it safely.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4ef962c7-a7ea-47d4-4419-3a189beaae30",
+            "query": "<span style=\"display: block;\"><p>Stress is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>a psychosomatic disease that one can learn to control.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a phenomenon which is specific to modern man.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a mechanism by which an individual can respond to situations which he/she may have to face.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b4c7dac3-5299-ef07-6e57-63180e054fbd",
+            "query": "<span style=\"display: block;\"><p>An example of a potential conf‌lict between status and role is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>a human manager interviewing an experienced captain of an aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>an ATC controller interviewing an inexperienced captain.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a senior captain acting as co-pilot to a junior captain of an aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a security officer temporarily standing in for a member ofthe cabin crew.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cb80dc23-8e51-4eed-2bdc-3f7af141ab15",
+            "query": "<span style=\"display: block;\"><p>While flying VFR \"wings level\" on top of overcast clouds at 10 000 ft, the artificial horizon indicates a 20° right bank. What action?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>No attitude correction is needed since the pilot knows that his/ her vision is more reliable than the instrument with regards to spatial orientation.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Trust the instrument and level the aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Take the proper action by \"leaning\" toward the lower end of the artificial horizon, thus compensating for the somatogyral illusion.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "994bfe8c-8eb9-2146-2b5b-2818591c1b45",
+            "query": "<span style=\"display: block;\"><p>Mode error is associated with:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>automation</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>checklists</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>vertigo</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>hardware</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "26247c9d-90c5-9314-9f41-d2a0e9a36d0e",
+            "query": "<span style=\"display: block;\"><p>Most fatal accidents in aviation occur during the:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Cruise</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Descent</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Approach and landing</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Take-off</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "541d637d-3836-d18f-672e-a6473cf13ee4",
+            "query": "<span style=\"display: block;\"><p>How is the rate and depth of breathing controlled?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>By the amount of carbon monoxide and oxygen in the blood.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>By the amount of haemoglobin in the blood and the lungs.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>By the amount of oxy-haemoglobin in the blood and the lungs.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>By the amount of carbonic acid in the blood.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6c0ee8a8-2c4a-879d-dbf5-fce7e19c5544",
+            "query": "<span style=\"display: block;\"><p>What is the function of white blood cells within blood?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>to coagulate the blood.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to transport oxygen.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to counter infections and parasites.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8e1149ed-7ebb-0a56-03b0-11e0558b3dcb",
+            "query": "<span style=\"display: block;\"><p>Hypertension is:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>low blood pressure.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>low pulse rate.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>high pulse rate.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>high blood pressure.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cb4b8849-2ce3-42ff-d36e-b8c90ffb2f18",
+            "query": "<span style=\"display: block;\"><p>Which of the following can be a cause of anaemic hypoxia?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Smoking.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Fatigue.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>High altitude</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Decompression</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ff72f717-8b63-3228-8f33-906b64e0573d",
+            "query": "<span style=\"display: block;\"><p>Monocular cues are used in order to judge depth and distances at long range. Which of the following is not a monocular cue:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Shape constancy</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Linear perspective</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Size constancy</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Convergence</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1d3e7220-2947-b0c8-e6b2-4fa9ab062d3c",
+            "query": "<span style=\"display: block;\"><p>A pilot could fly a lower than normal (undershoot) visual approach due to certain circumstances:</p><p>1. An approach to a runway with an unexpected up slope</p><p>2. An approach to an unexpectedly wide runway</p><p>3. An approach to an unexpectedly narrow runway</p><p>4. An approach to a runway with an unexpected down slope</p><p>&nbsp;</p><p>The correct statements are:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1, 4</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2, 3 &amp; 4</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 3</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3 &amp; 4</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a0c2718c-b858-0502-1a72-b3c1807fee87",
+            "query": "<span style=\"display: block;\"><p>What are the main characteristics of latent errors? They:</p><p>1 May remain undetected in the system for a long time</p><p>2 May only manifest themselves under certain conditions</p><p>3 Are quickly detectable by the front-line operator</p><p>&nbsp;</p><p>The correct statement(s) is (are):</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>2, 3</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 3</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>3</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a348c1c7-dd42-e51d-69f3-b0aac76db0b3",
+            "query": "<span style=\"display: block;\"><p>\"Complacency\" means:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Fear of flying</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The right execution of the crew concept by captain and co-pilot</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Criticizing the captain</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Diminished alertness due to overconfidence</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a4fee4d2-1a28-4da5-1264-91bc5a319c58",
+            "query": "<span style=\"display: block;\"><p>What is a typical example of an undesired aircraft state to the TEM concept?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Flying too fast and too high during approach.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Missing read back of clearances between crew and tower.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Approaching a runway with cross wind.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Using wrong communication frequency.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7f4d4a61-44cc-363d-6628-3047e1d72154",
+            "query": "<span style=\"display: block;\"><p>An autocratic cockpit is described by:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The captain's authoritarian behaviour considerably reduces communications and consequently the synergy and cohesion of the crew</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The atmosphere is relaxed thanks to a captain who leaves complete freedom to the various members of the crew</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Despite the strong authority of the captain, everything functions correctly owing to his natural leadership</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Each of the members chooses what job to do without telling the others and in the belief that everyone is aware of what he is doing</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "baeae7ed-4dde-323f-a932-ad8ae948a498",
+            "query": "<span style=\"display: block;\"><p>The Autonomic Nervous system is divided into two parts. How are those called?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Advanced and normal system.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Sympathetic and parasympathetic.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Sensory and motor systems.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Automatic and autonomic system.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "dd0510dc-4992-5a1d-f2e7-fd7a94767e8a",
+            "query": "<span style=\"display: block;\"><p>What is selective attention?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Awareness of sensory imput.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Ability to focus attention on one source at a time.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Ability to filter out extraneous information.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Ability to focus attention on several activities at one time.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "341fa220-6e3b-ed74-e5d9-8eaf860d9f8c",
+            "query": "<span style=\"display: block;\"><p>Name the main types of long term memories and their tasks.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Episodic memory for recalling facts and figures, photographic memory for recalling pictures and episodic memory for recalling specific events.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Semantic memory for recalling facts and fihgures and episodic memory for recalling specific events.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Episodic memory for recalling facts and figures and the semantic memory for recalling specific events.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Episodic memory for recalling specific events, semantic memory for recalling facs and figures end procedural memory for motor programmes.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a125e5b5-ee6b-002c-8cf2-ec37e42c8c3b",
+            "query": "<span style=\"display: block;\"><p>What are the five factors of the Big Five personality trait model?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Unsympathetic, depressed, egocentric, sensation seeking, dominant.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Conscientiousness, agreeableness, neuroticism, openess, extraversion</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>Psysiological needs, security, belonging, self-esteem, self-fulfilment</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Anti- authority, impulsiveness, Invulnerability, macho, resignation</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "19994c2f-2414-deea-82b7-339a1ada77d8",
+            "query": "<span style=\"display: block;\"><p>When sound waves are detected by the eardrum, the conductive system passes the signals directly to the:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Auditory nerve centre</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Cerebellum</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Cochlea</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Vestibular apparatus</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ef29d211-c7d9-f433-19a4-0fb06598027a",
+            "query": "<span style=\"display: block;\"><p>What are the two main forms of deafness?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Conductive deafness, sensori—neural deafness</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Conductive deafness, noise induced hearing loss</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Conductivitis, Tinitis</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Sensori-neural deafness, noise induced hearing loss</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "00d42a99-1ef1-17cc-f9f5-e6cdfda37558",
+            "query": "<span style=\"display: block;\"><p>How is linear acceleration detected?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>By the movement of the otoliths in the two common sacks</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>By movement of the hairs in the semi-circular canals</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>By the joint reactions of the semi-circular canals and the otoliths</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>By movement of the ﬂuid in the cochlea</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "37d676be-7b7e-f6d7-d1f8-c8c97d3533c9",
+            "query": "<span style=\"display: block;\"><p>What part of the eye controls the amount of light entering the eye?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Pupil</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Iris</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Eyelid</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Lens</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e788879d-a40b-02dd-7588-ec5866c8d75f",
+            "query": "<span style=\"display: block;\"><p>Which of the following statements are correct?<br>I. The leans is a visual illusion<br>2. Coriolis is a visual illusion<br>3. Autokinesis is a visual illusion<br>4. Somatogravic is a vestibular illusion<br>5. Autokinesis is a vestibular illusion<br><br><br>&nbsp;</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>2, 3, 4 and&nbsp;5</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>3 and 4</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3 and 4</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2, 4 and&nbsp;5</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fe3be3a6-d843-7534-fb82-337d0b1ba037",
+            "query": "<span style=\"display: block;\"><p>Which diseases are spread by contaminated water?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Hepatitis B, Cholera, Typhoid</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Typhoid, Cholera, Dysentery</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Ecoli, HIV, Typhoid, Dysentery</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Typhoid, Malaria, yellow fever</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "46b58bf0-d0a0-0a48-76ac-92cee56dcaf6",
+            "query": "<span style=\"display: block;\"><p>Why should a pilot not fly if he/she has got a cold?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>In ﬂight the pressure on either side of the eardrum has to be the same. The eustachian tube which allows this to happen may be swollen and blocked by the cold.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>In ﬂight the pressure in the middle ear has to be the same as the inner ear. The eustachian tube which allows this to happen may be swollen and blocked by the cold.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>In ﬂight the pressure in the inner ear has to be the same as that in the cabin environment. The eustachian tube which allows this to happen may be swollen and blocked by the cold.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>In ﬂight the pressure either side of the eardrum has to be the same. If the eustachian tube is swollen and blocked, the pressure can only be the same in the descent where the lower pressure forces its way out of the middle ear.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1f8f2ff7-aca0-9d28-d197-88cea421bf4d",
+            "query": "<span style=\"display: block;\"><p>What is REM sleep?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>REM sleep is rapid eye movement and is the earliest stage in each sleep cycle.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>REM sleep is random eye movement and is the dream stage in each sleep cycle.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>REM sleep is random eye movement and is the last stage in each sleep cycle.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>REM sleep is rapid eye movement and is the stage of sleep that refreshes the brain.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "efa44dc8-9a34-668e-d0ec-f1bc6fea1cb7",
+            "query": "<span style=\"display: block;\"><p>Why is it easier to cope with circadian dysrhythmia on westerly flights rather than easterly flights?<br><br><br>&nbsp;</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Flights westerly gain more time than easterly ﬂights loose.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Flights westerly are hindered by the 25 hours circadian clock but ﬂights eastbound are aided.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Flights westerly are aided by the 25 hours circadian clock but ﬂights eastbound are worsened.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Flights easterly lose more time than westerly ﬂights gain.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cfe4481b-647e-a4c0-44c3-dd75ced59fa6",
+            "query": "<span style=\"display: block;\"><p>Which is an example of an error caused by liveware-hardware interface problems?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Mental pressure.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A procedures that is not user friendly.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Switches, controls or displays with poor design.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Noise interference.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        }
+    ]
+}
