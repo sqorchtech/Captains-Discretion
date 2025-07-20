@@ -1,5 +1,5 @@
 body{
-    background-color: #00A1E4;
+    background-color: #f2f2f2;
 }
 
 
@@ -15,7 +15,7 @@ input {
     align-self: center;
     border: none;
     appearance: none;
-    background: #f2f2f2;
+    background: #dddddd;
     padding: 1%;
     border-radius: 10px;
     width: 90%;
@@ -51,7 +51,7 @@ input {
 }
 
 hr {
-    border-color: #00A1E4;
+    border-color: #777;
 }
 
 .hide {
@@ -60,7 +60,7 @@ hr {
 
 .navbar ul {
     list-style-type: none;
-    background-color: #006d9b;
+    background-color: #888;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
@@ -77,7 +77,7 @@ hr {
 }
 
 .navbar a:hover{
-    background-color: #005579;
+    background-color: #555;
 }
 
 .selected-nav {
@@ -88,7 +88,7 @@ hr {
     text-align: center;
     font-size: x-large;
     font-family: bold;
-    background-color: #005579;
+    background-color: #555;
 }
 
 .navbar li {
