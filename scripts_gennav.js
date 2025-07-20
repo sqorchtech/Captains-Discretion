@@ -1,12 +1,11 @@
 const questionCardTemplate = document.querySelector("[data-question-card]")
 const questionCardContainer = document.querySelector("[question-card-container]")
-const searchInput = document.querySelector("[data-search")
+const searchInput = document.querySelector("[data-search]")
 
 let questions = []
 
 searchInput.addEventListener("input", (e) => {
     const value = e.target.value.toLowerCase()
-    console.log(typeof questions)
     questions.forEach(questionset => {
         questionset.forEach(question => {
             const isVisible = question.query.toLowerCase().includes(value)
@@ -53,5 +52,15 @@ function populateQuestions(filename)
 }
 
 
+function clearInput()
+{
+    searchInput.value = "";
 
+    //unhide all things
+    questions.forEach(questionset => {
+        questionset.forEach(question => {
+        question.element.classList.toggle("hide", false)
+        })
+    })
+}
 

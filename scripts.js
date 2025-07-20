@@ -1,6 +1,6 @@
 const questionCardTemplate = document.querySelector("[data-question-card]")
 const questionCardContainer = document.querySelector("[question-card-container]")
-const searchInput = document.querySelector("[data-search")
+const searchInput = document.querySelector("[data-search]")
 
 let questions = []
 

@@ -5,10 +5,20 @@ body{
 
 .search-wrapper{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 3%;
+}
+
+.search-wrapper button{
+    padding: 1%;
+    margin: 2%;
+    height: 50px;
+    width: 5%;
+    background-color: #dddddd;
+    border-style: none;
+    border-radius: 10px;
 }
 
 input {
