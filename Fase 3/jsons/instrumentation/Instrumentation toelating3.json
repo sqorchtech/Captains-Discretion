@@ -1,0 +1,1486 @@
+{
+    "uuid": "81b868ba-d004-40c0-a2d1-0c9c8371c41a",
+    "title": "Online onsite final test 'Instrumentation' v23.4",
+    "questions": [
+        {
+            "uuid": "251b18ba-2db6-c4f7-72d0-ee5f1bddab19",
+            "query": "<span style=\"display: block;\"><p>A <u>synchro</u> consists of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>a fixed E-core and a moving I-core.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a fixed&nbsp;primary stator coil inbetween three fixed&nbsp;secondary rotor coils each mounted on&nbsp;a spoke.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a potentiometer.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>one&nbsp;primary rotor coil and three&nbsp;secondary stator coils.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "aad7d727-96f9-affc-d973-d1d5ea7ed69d",
+            "query": "<span style=\"display: block;\"><p>When the <u>EPR</u> inlet probe is blocked&nbsp;with ice when <em>commencing</em> the take-off roll, the&nbsp;indicator will...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>underread.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>overread.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>show zero.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>show the outlet pressure.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "df26d795-e975-d4dc-230f-c9326a293cba",
+            "query": "<span style=\"display: block;\"><p>How is, within the <u>EGT</u> meter, the temperature of the <em>cold junction</em> taken into account?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The cold junction is kept at a constant temperature.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The temperature of the cold junction is subtracted from the temperature of the hot junction.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The temperature of the cold junction is added to the temperature of the hot junction.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The temperature of the cold junction is compensated for by an electronic module named the&nbsp;cold junction compensator (CJC).</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4d08074a-12e8-578b-4dff-1324a61ae7e4",
+            "query": "<span style=\"display: block;\"><p>The <em>indication</em> of the <u>fuel float gauge</u> varies with...</p><ol><li>aircraft attitude;</li><li>aircraft acceleration;</li><li>atmospheric pressure;</li><li>fuel temperature.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1, 2, 3 and 4.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2 and 4.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>4.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 and 2.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1cdc4008-4669-977a-a3f8-71239936bac3",
+            "query": "<span style=\"display: block;\"><p>This question requires careful reading!</p><p>&nbsp;</p><p>Which parameter is obtained when <em>integrating</em> the electric output&nbsp;signal from the <u>vane-type fuel sensor</u>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Fuel Quantity.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Fuel Used.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Fuel Flow.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Fuel Height.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a8dd3597-a260-4ccd-cfa5-1659e19c0262",
+            "query": "<span style=\"display: block;\"><p><em>Rotary-current</em>&nbsp;<u>tachometers</u> of the generator-and-indicator type are applied because...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>they measure DC voltage rather than AC voltage.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>they do not need a drag-cup&nbsp;(or Eddy-current) coupling.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the quality of the electric wiring does not seriously affect its operating principle.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>this is the only tachometer whose signal can travel large distances.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "516861bb-5052-e22b-abfb-1a42de7b6070",
+            "query": "<span style=\"display: block;\"><p>A <u>synchroscope</u> measures a <em>difference</em> in...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>propeller phase.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>&nbsp;engine rpm.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>vibration frequency.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>fuel flow.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ce02bb88-86dd-a42e-d2ef-47e7647216d1",
+            "query": "<span style=\"display: block;\"><p>Engine <u>thrust</u> is usually expressed&nbsp;in...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Newton meter.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>foot pound.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>kilogram or pound.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>horsepower.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7889005a-9910-63ad-3574-549e578496e1",
+            "query": "<span style=\"display: block;\"><p>The <em>operating principle</em> of the <u>electronic torque meter</u> is based on the measurement of a(n)...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>phase difference.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>manifold absolute pressure (MAP).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>oil pressure with help of a planetary gear system.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>frequency difference.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cc342e46-6bde-eb72-6e4c-2b01b429b5aa",
+            "query": "<span style=\"display: block;\"><p>Which <em>statement</em> concerning the <u>engine-vibration measurement-system</u>&nbsp;is correct?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>The amplitude of the vibration determines the indication.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Because the indication lags, one must respond very quickly.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The vibration level is used as a thrust setting parameter.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The sensors measure axial shaft vibration.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "12d40eb3-5a4a-5f52-c05e-9e0612e3d364",
+            "query": "<span style=\"display: block;\"><p>Given:&nbsp;A&nbsp;large transport aeroplane with a pressure cabin.</p><p>&nbsp;</p><p>When the <u>static-source selector-switch</u> is set from NORMAL to ALTERNATE the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>alternate method is selected to compensate for the static source- or position error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>static pressure from the alternate ADC is used.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pressure from the cabin is used alternatively.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>alternate static ports are used.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "28090249-b6fc-7570-935d-ce6568bd23f7",
+            "query": "<span style=\"display: block;\"><p>The <em>direct-reading</em>&nbsp;<u>outside-air thermometer</u> makes use of a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>bimetallic-type sensor.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>resistive-type sensor.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>liquid-type sensor.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>vapour-pressure-type sensor.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b666af68-68fd-cc55-522e-b9f2c80dbcfd",
+            "query": "<span style=\"display: block;\"><p>An <em>imaginary</em> sensor that would be able to detect&nbsp;<u>side-slip</u>&nbsp;angles (beta-angles) is a...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>single pitot probe located in front of the two&nbsp;windshields.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>null-seeking probe on the left and right side of the forward fuselage that aligns itself with the free airflow.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>TAT-probe.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>vane-type probe&nbsp;on the lower side (buttock line)&nbsp;of the forward fuselage.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1b28424d-e2cc-a2d7-f724-34ebf6fc1758",
+            "query": "<span style=\"display: block;\"><p>Given: A single engined, small aeroplane without pressure cell.</p><p>&nbsp;</p><p>When during climb both&nbsp;<u>static ports</u> become <em>blocked</em>,&nbsp;the indication of the&nbsp;altimeter will...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>lead (run ahead).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>lag (stay behind).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>drop to&nbsp;zero.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>freeze (maintain the last indicated altitude).</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8d9a298e-ba5c-7c9c-73c1-66006f61b1aa",
+            "query": "<span style=\"display: block;\"><p>The <em>operating principle</em> of the <u>vertical speed indicator</u> (VSI) is based on the measurement of the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>difference between two static pressures.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>difference between total pressure and static pressure.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Change in static pressure&nbsp;over time.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>precession of a rate gyro.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "66de2441-2094-6a31-714c-056df5e10a6c",
+            "query": "<span style=\"display: block;\"><p>Which <u>airspeed</u> is created when <em>multiplying</em> the Mach-number with the local speed-of-sound?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>EAS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>CAS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>TAS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>IAS.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e9f7599f-b835-42f6-5699-468214e73f86",
+            "query": "<span style=\"display: block;\"><p>What happens to&nbsp;the indication of <u>TAS</u> and <u>M</u> when <em>climbing</em> in the troposphere under ISA conditions and with a constant CAS?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>TAS decreases; Mach increases.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>TAS increases; Mach decreases.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>TAS and Mach both increase.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>TAS and Mach both decrease</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "efed554c-fc7f-8877-47b1-379c9de2445c",
+            "query": "<span style=\"display: block;\"><p>Which corrections does&nbsp;the <u>ADC</u>&nbsp;apply&nbsp;to the sensed static pressure?</p><ol><li>temperature;</li><li>density;</li><li>compressibility;</li><li>Mach;</li><li>angle of attack;</li><li>position;</li><li>instrument.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1, 2&nbsp;and 3 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>4 and 5 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>6 and 7 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3, 4, 5, 6 and 7.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6a1b8761-7546-640b-2043-391161a134e3",
+            "query": "<span style=\"display: block;\"><p>Magnetic <u>variation</u> is the <em>difference</em> between...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Earth magnetic field and the local horizontal.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Magnetic North and True North.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Compass North and Magnetic North.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Compass North and True North.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c97746da-8328-1593-d7f4-09689ba7fe12",
+            "query": "<span style=\"display: block;\"><p>Which <em>statement</em> is true concerning <u>hard iron</u> and <u>soft iron</u>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Hard iron is difficult to magnetise but will lose its magnetism easily.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Hard iron is difficult to magnetise but also difficult to de-magnetise.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Soft iron is difficult to magnetise and will lose its magetism easily.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Soft iron is easy to magnetise and wil retain its magnetism for a long time.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6734a97e-b1ca-6a6b-a22d-3bab6494d7fe",
+            "query": "<span style=\"display: block;\"><p>Which error makes that the <u>DRMC</u> shows an apparent turn when <em>starting the take-off</em> in an easterly&nbsp;or westerly&nbsp;direction?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Acceleration error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Turning error.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Deviation.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Attitude error.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "db62dc52-81d9-3927-eb3a-4b8fb08207d1",
+            "query": "<span style=\"display: block;\"><p>Is the <u>flux valve</u> (FV)&nbsp;sensitive to the <em>aircraft</em> magnetic field?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>No, since the FV&nbsp;is mounted far away from the fuselage.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>No, since the FV is mounted in a metal enclosure filled with a damping fluid.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>No, provided a yearly compass swing is carried out.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Yes, but because of the electro-magnetic compensation the error is neglible.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1403b6ac-7dd4-a3fc-d8a8-90d45215e616",
+            "query": "<span style=\"display: block;\"><p>Which <em>properties</em> apply to a <u>vertical gyro</u> suspended in two perpendicular gimbals?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>SDF, attitude indicator, precession, second gyro law.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>TDF, Rate-of-Turn indicator, rigidity, second gyro law.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>SDF, Directional Gyro, precession, first gyro law.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>No DG but an ATT holding a TDF VG&nbsp;using rigidity based on first gyro law.</p>"
+                },
+                {
+                    "text": "<span><p>TDF, artificial horizon, rigidity, first gyro law.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "7492b0b0-f471-7719-4d79-e7cb2167ea5c",
+            "query": "<span style=\"display: block;\"><p>Why does the gyro in the<em> </em><u>rate of turn indicator</u> rotate in a <em>forward</em> direction?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Now the precession is such that the input axis maintains more or less aligned with the local vertical.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Now the gyro also becomes sensitive for a rotation around the longitudinal axis.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Now the gyro precesses in the direction of the turn.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Now the gyro is more rigid in space.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6ebe6750-15d0-1044-bde6-f7424795f82f",
+            "query": "<span style=\"display: block;\"><p>The <u>attitude indicator</u> is equipped with an erection mechanism to keep the spin axis <em>aligned</em> with...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the local vertical.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the earth axis.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the z-axis of the aeroplane.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a point in space.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "522c5a22-dd55-65fa-c3d2-aaa007898c79",
+            "query": "<span style=\"display: block;\"><p>The <em>directional gyro</em> (DG) rotates about its <u>vertical</u> axis by 15 °/hour when located at...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>latitude 0° and longitude 0°.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the equator.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the North and South pole.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the Greenwich meridian.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a8c52857-501b-ca18-aa2c-c8b20032f4df",
+            "query": "<span style=\"display: block;\"><p>A <em>slaved-gyro compass</em> is <u>more</u> accurate than a directional gyroscope&nbsp;compass&nbsp;because the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>flux valve is free of errors.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>gyro can be manually aligned&nbsp;to compensate for wander.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>gyro is&nbsp;automatically compensated&nbsp;for drift.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>precession speed is limited to&nbsp;three&nbsp;degrees per minute.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2883e2cb-c54e-dc21-11be-50de3444f146",
+            "query": "<span style=\"display: block;\"><p>The <em>vertical</em> accelerometer of an <u>inertial navigation system</u> (INS)...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>measures any offset from the local horizontal.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>is not always installed.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>is kept vertical with help of an erection mechanism consisting of liquid level switches and gyro-torquers.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>senses 0-g during&nbsp;unaccelerated straight and level flight.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "0e5baad3-b9b3-2dfc-4d3d-76c3a79bf622",
+            "query": "<span style=\"display: block;\"><p>The <em>mode selector switch</em> of the <u>IRS</u> has the following positions (from left to right)...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>OFF - ALGN - NAV - ATT.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>OFF - SBY - ATT -&nbsp;NAV.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>OFF - ALGN - SBY -&nbsp;NAV.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>OFF - ALGN - ATT - STBY.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "57d86378-91c0-b94d-8dca-e1590146319e",
+            "query": "<span style=\"display: block;\"><p>The&nbsp;<u>autoflight system</u> comprises...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the FADEC system, the yaw damper system and the pitch trim system.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the autothrottle system,&nbsp;the autopilot system and&nbsp;the stability augmentation&nbsp;system.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>the FMS, the Flight Director, the Speed Command system and the Thrust Command system.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>The FMS, the FD, the SC and TC systems do not actually steer and are therefore&nbsp;not considered part of the AFS.</p>"
+                },
+                {
+                    "text": "<span><p>the autoland system, the autobrake system, the anti-skid system and the thrust reversers.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ed1348b1-44b1-e5c4-c963-a970b2b42d8f",
+            "query": "<span style=\"display: block;\"><p>The three <em>channels</em> of an <u>autopilot</u>&nbsp;are...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>pitch, roll and yaw.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Flight Director command, Speed Command and Thrust Command.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Turn coordination, Dutch roll damper and N-1 compensation.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>servo loop, inner loop and outer loop.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cf42268b-88af-4fca-0118-27d9e6fb2cbc",
+            "query": "<span style=\"display: block;\"><p>The<em> </em><u>Flight Director</u> (FD)&nbsp;gives...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>pitch- and roll attitude steering commands only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>pitch-, roll- and yaw&nbsp;steering commands.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Pitch,&nbsp;roll, speed&nbsp;and thrust&nbsp;commands.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Yaw Damper steering commands.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "98673850-3625-f034-c90e-92db323df71b",
+            "query": "<span style=\"display: block;\"><p><u>Mach trim</u> compensates for...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>compressibility effects on the airspeed measurement.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Dutch-roll.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Phugoid.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Tuck-under.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6be3c56a-f85d-d09f-f067-4e97aeaa1e63",
+            "query": "<span style=\"display: block;\"><p>The <u>yaw damper</u> has a yaw rate sensor.</p><p>&nbsp;</p><p>Which of the following is a <em>yaw rate sensor</em>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>TDF horizontal spinaxis gyro.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>SDF horizontal spinaxis rate gyro.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>SDF horizontal spinaxis rate integrating gyro.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>SDF horizontal spinaxis gyro.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a5021fd6-6b22-3e8e-3ca8-540475e9db40",
+            "query": "<span style=\"display: block;\"><p>The&nbsp;<em>Flight Envelope Protection</em> (FEP) system has the following <u>functions</u>...</p><ol><li>Stall protection;</li><li>Overspeed protection;</li><li>Excessive rate of descent protection;</li><li>Altitude alerting;</li><li>Dutch roll damping.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 and 2.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2&nbsp;and 3.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3&nbsp;and 4.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3, 4 and 5.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a38757ca-08e0-d6ae-006d-60909deb46f0",
+            "query": "<span style=\"display: block;\"><p>The <u>Automatic Throttle System</u> (ATS) is able to adjust&nbsp;the<em><u> throttle lever</u></em> in order to control...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>thrust mode and speed mode.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>torque mode and ALT mode.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>N1 mode and VS mode.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>VNAV mode and LNAV mode.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e37e7744-0109-7cfd-11e3-983d008ddf48",
+            "query": "<span style=\"display: block;\"><p>Which statement is true when <em>comparing</em> <u>voice communication</u> with <u>data communication</u> in aviation?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Voice communication is VHF; data communication is UHF.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Modern communication is through digital data; voice is used as a back-up.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Data communication leads to less misunderstanding and is less time consuming.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Voice communication is via sound waves; data communication is via radio waves.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f3ed5e46-a369-fd33-5ca5-a13b10a8f009",
+            "query": "<span style=\"display: block;\"><p>The <u>CPDLC</u> message: \"CLIMB TO REACH (level) by (time)\" is an instruction...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>that a climb is to commence at or before the specified time to reach the specified level.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>that a climb is to commence at a rate such that the specified level is reached at or before the specified time.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>that a climb is to commence at a rate such that the specified level is reached at or after the specified time.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>to climb a rate such that the specified level is reached within the specified time.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "28508d0e-3d88-33c7-09a0-7afaf34860a8",
+            "query": "<span style=\"display: block;\"><p><u>FMS</u> provides...</p><ol><li>navigational calculations;</li><li>performance calculations;</li><li>AP/FD commands;</li><li>Thrust commands.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 and 2 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2 and 3 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3 and 4.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "aba11bcd-70a9-9dfa-377d-2d1a5c8c6c9a",
+            "query": "<span style=\"display: block;\"><p>The secondary navigation database of the <u>FMS</u> is <em>activated</em> by means of...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>'mouseclicking'.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>'cut and paste' commands.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Line Select Keys (LSK) near the display unit.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>function- or mode knobs on the CDU.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1a615f1f-c9ba-7cb4-9bf6-1f49b4354c1a",
+            "query": "<span style=\"display: block;\"><p>The&nbsp;<em>Cost Index</em> (CI)&nbsp;must be inserted in the <u>FMS</u> CDU to...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>correct for the specific fuel consumption of an aircraft.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>correct for&nbsp;the specifc density of the fuel.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>adjust the performance calculations&nbsp;for deviations from the clean configuration.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>optimise&nbsp;the economic performance of the flight.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d98bba2c-fa8b-17f3-3681-a0a6401b6910",
+            "query": "<span style=\"display: block;\"><p>The flight crew is informed about an <u>FMS</u> <em>message</em>&nbsp;by illuminating...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>a blue&nbsp;light on the overhead&nbsp;panel and&nbsp;a message on the EFIS navigation display.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a&nbsp;green&nbsp;light on the pedestal&nbsp;and a message on the EFIS&nbsp;primary flight display.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a red&nbsp;light on the glarehield and a message on the ECAM/EICAS warning display.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>an amber light on the instrument panel and a message on the scratcpad of the MCDU.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "24d55407-d4dc-4e9a-7c38-e5ea0694a1a0",
+            "query": "<span style=\"display: block;\"><p>When you push the flashing <u>Master Caution Light</u> (MCL) on the glareshield panel...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the flashing stops, but the MCL remains on until the local alert light is reset.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The flashing MCL and the local alert light are reset.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Only the flashing MCL is reset.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The flashing continues until the local alert is reset.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9e7eedcc-f170-840d-07d6-4842349fe641",
+            "query": "<span style=\"display: block;\"><p>The <u>stall warning system</u> will give an alert when the airspeed drops to...</p><p>&nbsp;</p><p>Note: SWS is no stall protection system.</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Vls&nbsp;- 5 kt.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Vls.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Vss.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Vs.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "71933bf6-2a2b-dac7-2dea-7022eb49ce66",
+            "query": "<span style=\"display: block;\"><p>The <u>overspeed warning</u> is given when the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>upper checkerbar of the EFIS speed tape is penetrated.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>MCP speed is exceeded.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>FMC speed is exceeded.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Vmo or Mmo is exceeded.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "17be8226-3035-a096-3a81-f2bfa37d0375",
+            "query": "<span style=\"display: block;\"><p>The<u> altitude alert system</u>&nbsp;gives an <em>alert</em> when...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>deviating from the glideslope.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>inadvertently descending below 1000 ft radio altitude.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>acquiring an altitude that is selected from the flight mode control panel.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>descending below the Decision Height.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "3228de16-6064-562f-955a-2502ad92c954",
+            "query": "<span style=\"display: block;\"><p>The operating principle of the <u>Low Range Radio Altimeter</u> (LRRA) is based on the <em>measurement</em> of a difference in...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>phase.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>frequency.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>time.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>distance.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2df9d4ad-f266-7dd7-441b-ef10178e4614",
+            "query": "<span style=\"display: block;\"><p>Regarding <u>TAWS</u>.</p><p>What is the difference between a soft glideslope alert and a hard glideslope alert?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>When receiving a soft alert, one may adjust the descent rate; but when receiving a hard alert, one must execute a go-around.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The hard alert changes in a soft alert during flight phase inhibition.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>When the descent rate increases, the soft alert is replaced by the hard alert.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>When the vertical distance deviation increases, the soft alert changes in a hard alert.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "0bd295b1-293b-7c7c-405b-7675abdd7757",
+            "query": "<span style=\"display: block;\"><p>The&nbsp;<em>arrow</em>&nbsp;near the <u>TCAS</u> symbol on the EFIS ND shows...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the heading of the&nbsp;intruder.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>an evasive maneuver to be conducted.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a considerable vertical speed of the intruder.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the relative vertical speed.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6d447a33-1cfe-5d6f-e5c7-5f252083a5a4",
+            "query": "<span style=\"display: block;\"><p>Which parameter is shown on <em>both</em> the <u>ADI</u> and the <u>HSI</u>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Track deviation.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Heading.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Flight Director.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>FD&nbsp;on ADI&nbsp;only.</p>"
+                },
+                {
+                    "text": "<span><p>ILS deviation.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "uuid": "74fd4ea3-1758-67d5-31dc-8c68d59e220f",
+            "query": "<span style=\"display: block;\"><p>Which parameter shows in a <em>white</em> colour on the <u>EFIS</u> EHSI?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Actual track.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Actual flight plan.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Active waypoint.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Selected heading.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "852e62be-469b-fc54-8eee-f6f0f621e3b3",
+            "query": "<span style=\"display: block;\"><p>A&nbsp;<em>synoptic display</em>&nbsp;as used by <u>EICAS/ECAM</u>&nbsp;shows...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>all alerts in order of priority.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a combination of flight- and engine parameters.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>engine parameters in both a digital and analog format.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a schematic&nbsp;overview of an aircaft system.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "66c6c213-de33-d099-1086-f1a7dcd35764",
+            "query": "<span style=\"display: block;\"><p><u>ACMS</u>&nbsp;messages can be...</p><p>&nbsp;</p><p>Note:</p><p>ACMS = Aircraft Condition Monitoring System</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>downlinked&nbsp;without crew notification.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>transmitted&nbsp;by Mode-S.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>received when there is an ADS Contract.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>uplinked for display&nbsp;on&nbsp;EFIS and/or EICAS/ECAM.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f6d473da-246c-9278-e836-26b33cb2cff7",
+            "query": "<span style=\"display: block;\"><p>With the <u>CVR</u> must start&nbsp;recording&nbsp;as soon as...</p><ol><li>electric power on;</li><li>engines on;</li><li>parking brake released;</li><li>aircraft in flight.</li></ol></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 and 2.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2 and 3.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3 and 4.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c150273f-48ce-d5d6-0265-57d0db9e3d54",
+            "query": "<span style=\"display: block;\"><p>What are the <em>differences</em> between the <u>Flight Data Recorder</u> and the <u>Cockpit Voice Recorder</u>?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Retention time: 25 hours for the FDR, 2 hours for the CVR.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Location: FDR in avionics bay, CVR in cockpit.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Construction: FDR normal metal casing, CVR shockproof and fire resistant orange box.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Operation: FDR as soon as engines on, CVR as soon as APU on.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f10919c1-e73f-6e24-e8e6-3aa431c7db92",
+            "query": "<span style=\"display: block;\"><p>Which statement concerning <u>computers</u> is correct?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>Computers are always digital; analogue computers do not exist.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>The radio altimeter is an analogue radar; the DME is a digital radar.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>Digital computers makes use of two&nbsp;(2) signals; analogue computers make use of eight (8),&nbsp;ten (10) or sixteen (16) signals.&nbsp;</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A digital indicator requires a digital computer; an analogue indicator requires an analogue computer.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "29255dcd-2872-b746-8005-4638308af5b8",
+            "query": "<span style=\"display: block;\"><p>An example of <u>computer software</u> is the...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>operating system (o/s).</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>memory.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>registers.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>soft rubber or -gel cover that protects the hardware.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b30d854c-204f-b0a1-a9ab-6d3f46e14f34",
+            "query": "<span style=\"display: block;\"><p>The <u>take-off warning system</u> gives an alert when the thrust lever is moved forward, and...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the aircraft is not in the correct configuration.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the center-of-gravity is out-of-limits.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the aircraft performance does not match the runway lenght.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the weather radar detects a windshear in front of the aircraft.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b27e346e-ba94-196b-a489-594fd50deb25",
+            "query": "<span style=\"display: block;\"><p>A <u>stall <em>protection</em> system</u>&nbsp;(SPS)...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>gives an audio-visual alert when the aircaft is about to stall.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>activates the stick-pusher when the stabiliser is about to stall.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>prevents the aircraft speed to drop below the minimum manoeuvring-speed.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>deactivates the turn-coordinator when exceeding the critial angle-of-attack.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c6d4cff5-30ba-6542-bb91-fad6576ea09f",
+            "query": "<span style=\"display: block;\"><p>Regarding alerting systems, a <u>level 1 advisory alert</u> requires...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>immediate action.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>immediate awareness and subsequent action.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>awareness and subsequent action.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>awareness and may require action.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fba8d9e7-00fa-66fd-f9f1-b9bc613d816c",
+            "query": "<span style=\"display: block;\"><p>A CAT3 <u>automatic landing system</u>,&nbsp;requires the use of automatic...</p><ol><li>pilot;</li><li>thrust;</li><li>pitch trim;</li><li>aileron trim.</li></ol><p>&nbsp;</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1 and 2 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2 and 3 only.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1, 2, 3, 4.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4dc52368-0a71-11b4-ac2c-755121861344",
+            "query": "<span style=\"display: block;\"><p>The <u>Flight Mode Annunciator</u> shows...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>the flight phase of the flight warning system.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the three-dimensional aircraft attitude including airspeed and altitude on EFIS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the alert and status messages on ECAM/EICAS.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>the status of the autoflight system only.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d91c2444-dbfb-7aa8-9859-96eaca18b2d5",
+            "query": "<span style=\"display: block;\"><p>A modern AHRS uses <u>Micro Electro-Mechanical Sensors</u>.</p><p>An example of such a sensor is...</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>an electrically-driven rate gyro.&nbsp;</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>a magnetometer.</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>a force-feedback accelerometer.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>A synchro.</p>  </span>",
+                    "format": "html",
+                    "comment": "<p>MEMS is a miniature solid state sensor usually a few mm in size.</p>    <p>A synchro is far to large for being MEMS.</p>"
+                }
+            ]
+        },
+        {
+            "uuid": "86be5baa-f625-d9b6-c3b3-4fd3dd17ad45",
+            "query": "<span style=\"display: block;\"><p>Piston engine <u>operating hours</u> are recorded in...&nbsp;</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>minutes and tenths of seconds.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>hours and tenths of minutes.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>hours and tenths of hours.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>minutes and seconds.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        }
+    ]
+}

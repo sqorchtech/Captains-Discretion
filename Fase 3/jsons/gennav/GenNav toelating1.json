@@ -1,0 +1,823 @@
+{
+    "uuid": "826e3fb0-da4e-47c6-a0cf-30da2f2c59c5",
+    "title": "Final GN 24  4 -",
+    "questions": [
+        {
+            "uuid": "c4cf1695-e1fb-7796-21a1-9c4968114551",
+            "query": "<span style=\"display: block;\">      What are the distance and True Track angle from A to B when the positions ofA and B are situated on the same meridian? The latitude of A is 23°15'N and the latitude of B is 14°18'N.          </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          537 NM and 360°        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          537 NM and 180°        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          857 NM and 270°        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          857 NM and 090°        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8f9920f1-0d89-b2d4-17e2-d80b2e2f8fa8",
+            "query": "<span style=\"display: block;\"><p style=\"margin-bottom:0cm;line-height:100%;\">An aircraft takes off from Guam13°29′02″N 144°47′50″E (UTC + 10)</p><p>at 23:00 LMT on 30 April local date. After a flight of 11 hrs 15 min it lands at Los Angeles. (California = UTC - 7). What is the Standard Time and local date of arrival</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>12:15 on 1 May.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>17:15 on 30 April.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>17:36 on 30 April.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>13:15 on1 May.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "5f4dde18-9c42-e198-a0d3-def4353485ed",
+            "query": "<span style=\"display: block;\">      Consider the following statements on the great circle and the rhumb line running through the same two positions:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          the rhumb line will in most cases be located closer to the equator than the great circle.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          the great circle will in most cases be shorter of the two.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          the great circle will in most cases run through an area of higher latitude than the rhumb line.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          all statements are correct.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bbba3392-b3e6-910f-4250-deee56862692",
+            "query": "<span style=\"display: block;\">      Given:. For take-off an aircraft requires a headwind component of at least 10 kts and has a crosswind limitation of 35 kts. The angle between the. wind direction and the runway is 60°.. Calculate the minimum and maximum allowable wind speeds.           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          20 kts: 40 kts        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          15 kts: 43 kts        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          12 kts: 38 kts        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          18 kts: 50 kts        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7da6f8f2-b84b-2431-1eb1-05719e55f09e",
+            "query": "<span style=\"display: block;\">      Given:. M: 0.80. OAT: -50°C. FL330. GS: 490 kts. VAR: 20°W. Magnetic heading: 140°. Drift: 11°R. Calculate the true W/V          </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          020°/95 kts.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          025°/45 kts.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          025°/47 kts.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          200°/95 kts.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2b24c23b-ccfe-e81b-2aac-b91ad2f577c6",
+            "query": "<span style=\"display: block;\">      Given:. TAS: 200 kts. Track: 073° (T). WN: 210/20 kts. Calculate the HDG and GS.           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          075° (T) - 213 kts.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          077° (T) - 214 kts.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          077° (T) - 210 kts.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          079° (T) - 211 kts.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c0afad9f-21b3-fa38-e4eb-04beaf977886",
+            "query": "<span style=\"display: block;\">      An aircraft at FL150 overhead an airport. Given:. Elevation of airport: 720 ft. QNH: 1003 hPa. OAT at FL150: -5°C. What is the true altitude of the aircraft?. (Note: assume 1 hPa = 27 ft)           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          14160 ft        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          14720 ft        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          15 300 ft        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          15 840 ft        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cee750f6-6779-0ec0-7636-fffaf2a05f73",
+            "query": "<span style=\"display: block;\">      The parallels on a Lambert conformal conic chart are represented by:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          straight lines.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          arcs of concentric circles.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          hyperbolic lines.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          parabolic lines.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "5058b156-0e94-1450-2256-7fca43837f25",
+            "query": "<span style=\"display: block;\">      UTC stands for:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          Universal Time Co-ordinated.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          Universal Time Coefficient.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          Universal Time Constant.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          Universal Time Compensated.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b07051ea-4ede-49ce-b492-59a3e1990737",
+            "query": "<span style=\"display: block;\">      5 hrs 20 min 20 sec corresponds to a longitude difference of:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          80°05'        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          81°10'        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          78°45'        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          75°00'        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "0e96d10a-7d8d-47a2-348e-e6b1bc440d7b",
+            "query": "<span style=\"display: block;\">      What is the constant of the cone for a Lambert conic projection whose standard parallels are at 50°N and 70°N?           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          0.941        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          0.866        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          0.766        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          0.500        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e1e1327f-62d0-e940-3ad4-b0a7a76eee46",
+            "query": "<span style=\"display: block;\">      What is the scale, expressed as a ratio, of a North Atlantic plotting chart with a quoted of 1 inch = 120 NM?           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          1:16 460 000        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          1:8 750 000        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          1:1 200 000        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          1:56 450 000        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "5a8649d1-d116-8a29-c9ed-08b7c36af509",
+            "query": "<span style=\"display: block;\">      The main reason that day and night, throughout the year, have different duration, is due to the:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          gravitational effect of the Sun and Moon on the speed of rotation of the Earth.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          relative speed of the Sun along the ecliptic.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          inclination of the ecliptic to the equator.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          Earth's rotation.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d3ef7d47-b429-df64-e92f-f00347e493b1",
+            "query": "<span style=\"display: block;\">      lsogonals are lines of equal:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          magnetic variation.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          wind velocity.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          compass deviation.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          pressure.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4b4bcb97-ae3a-d0d3-f30e-2cdaf03810bf",
+            "query": "<span style=\"display: block;\">      An aircraft is departing from an airport which has an elevation of 2000 ft and the QNH is 1023 hPa. The TAS is 100 kts, the headwind component is 20 kts and the rate of climb is 1000 ft/min. Top of climb is FL100. At what distance from the airport will this be achieved?           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          16.6 NM        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          10.3 NM        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          13.3 NM        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          11.1 NM        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cf59ba97-74bc-5c33-68ae-19c5d6dfbb91",
+            "query": "<span style=\"display: block;\">      A significant amount of ferrous material is transported on a cargo flight. Which aircraft system(s) should be checked for accuracy?           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          The automatic direction-finding equipment (ADF).        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          The inertial reference systems (IRS).        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          The direct reading magnetic compass (DRMC).        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          All gyroscopic flight instruments.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1b2c9890-c13e-ae30-751c-69b15d20bafb",
+            "query": "<span style=\"display: block;\">      An aircraft is flying at FL37O with CAS = 300 kts. OAT = ISA -4°C. The compressibility factor is 0.932. Calculate the TAS.           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          515 kts        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          519 kts        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          555 kts        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          535 kts        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "3413e2ee-b69f-c000-4613-f6a2c2533ff0",
+            "query": "<span style=\"display: block;\">      On a direct Mercator projection, at latitude 45° North, a certain length represents 70 NM. At latitude 30° North, the Same length represents approximately:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          7ONM        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          57NM        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          81NM        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          86NM        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fc485e6e-4149-9af8-7237-19f021600852",
+            "query": "<span style=\"display: block;\">      Given:. OAT: +35 °C. Pressure alt: 5 000 feet. What is true alt?           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          5 320 feet.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          4 550 feet.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          4290 feet.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          5 550 feet.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "78e23774-76df-4fd1-2f22-a4be95feecad",
+            "query": "<span style=\"display: block;\">      The lines on the Earth's surface that join points of equal magnetic variation are called:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          Isogrives        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          Isotachs        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          Isoclines        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          Isogonals        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c09f801c-87ea-72be-862e-a86b9f707e95",
+            "query": "<span style=\"display: block;\">      A correct definition of longitude is:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          The arc at equator between the Greenwich meridian and the meridian of the place, measured in degrees, minutes and seconds. named East or West.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          The difference between the Greenwich meridian and the meridian of the place, measured at the centre of the Earth.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          The angle between the Greenwich meridian and the meridian of the place.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          The east-west distance between Greenwich and the place.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cb8d01e3-c98a-2809-a21c-617a648bc0a5",
+            "query": "<span style=\"display: block;\">      A semi great circle on the Earth which is running from the North Pole to the South Pole is a:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          longitude.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          difference of longitude.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          parallel of latitude.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          meridian.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ad75e1ac-2b2c-5df2-1bce-4e6631239b88",
+            "query": "<span style=\"display: block;\">      What is the meaning of the term standard time?           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          It is another term for UTC.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          It is the time set by the legal authorities for a country or part of a country.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          It is the time zone system applicable only in the USA.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          It is a expression for local mean time.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "910dc9f4-6e42-3c44-419c-c481006db6a8",
+            "query": "<span style=\"display: block;\">      If compass HDG is 340° and deviation +3, what is magnetic heading?           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          Deviation is positive (Westerly), therefore magnetic heading is 343°.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          Deviation is positive (Easterly), therefore magnetic heading is 337°.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          Deviation is positive (Easterly), therefore magnetic heading is 343°.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          Deviation is positive (Westerly), therefore magnetic heading is 337°.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "0a7f9b22-8575-1dd0-e78a-8c41f4712d85",
+            "query": "<span style=\"display: block;\">      The direction of Magnetic North at a certain position coincides with the direction of:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          the great circle to the magnetic North Pole.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          the horizontal component of the Earth's magnetic field.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          the isoclinic line to the Magnetic North Pole.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          the isogonic line to the Magnetic North Pole.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c6704afb-269a-7e26-9cb1-7ca7374a06a0",
+            "query": "<span style=\"display: block;\">      Morning civil twilight begins when:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          the centre of the Sun is 6° below the celestial horizon.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          the centre of the Sun is 18° below the celestial horizon.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          the sun's upper edge is tangential to the celestial horizon.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          the centre of the Sun is 12° below the celestial horizon.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f27d0457-78d9-0816-28ce-13f3ab8e4203",
+            "query": "<span style=\"display: block;\">      At a specific location, the value of magnetic variation:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          depends on the type of compass installed.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          depends on the magnetic heading.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          varies slowly over time.        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          depends on the true heading.        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f860d551-97cf-fe1a-0681-f60adbeaff0b",
+            "query": "<span style=\"display: block;\">      On the 27th of February, at 52°S and 040°E, the sunrise is at 02:43 UTC. On the same day, at 52°S and 035°W, the sunrise is at:           </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          21 :43 UTC        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          02:43 UTC        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          05:23 UTC        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          07:43 UTC        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "110370b0-da38-ae91-e2ea-6cf7a18db62c",
+            "query": "<span style=\"display: block;\">      The reported surface wind from the control tower is 240°l35 kts. Runway 30 (300°). What is crosswind component?          </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          27 kts        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          24 kts        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          21 kts        </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          30 kts        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "69ecd733-0c8d-03c0-c908-738af8b4115b",
+            "query": "<span style=\"display: block;\"><p>TAS: 120 kts Actual HDG: 150° Wind: 245/12 kts What is the wind correction angle?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>12Â° to the right.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>6Â° to the left.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>6Â° to the right.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>12Â° to the left.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b602f249-f3d2-b93c-96be-28875ea3ad9f",
+            "query": "<span style=\"display: block;\"><p>The great circle bearing from A (70°S 030°W) to B (70°S 060°E) is approximately:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>048° (T)</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>090° (T)</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>132° (T)</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>312° (T)</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "eb5bbe2e-7570-e193-5dcf-19dc90dc15e1",
+            "query": "<span style=\"display: block;\"><p>What is the local mean time, position 65°25'N 123°45'W at 22:00 UTC?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>22:00</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>13:45</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>08:15</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>06:15</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "dfdd337b-6d44-dfdb-5dc5-3b6a5e667bbe",
+            "query": "<span style=\"display: block;\"><p>A fuel amount of 146 Imp Gal allows a endurance of 4 hrs 26 min. What is the corresponding fuel flow?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>34.3 Imp Gal/hr</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>39.5 Imp Gal/hr</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>39.5 US Gal/hr</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>32.9 US Gal/ hr</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8a8cd24c-693e-1056-923c-cf037c36ddd0",
+            "query": "<span style=\"display: block;\"><p>An aircraft is following a true track of 048° at a constant TAS of 210 kts. The wind velocity is 350°l30 kts. The GS and drift angle are:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>225 kts, 7° left</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>200 kts, 3.5° right</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>192 kts, 7° left</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>192 kts, 7° right</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "c4ba7b35-379b-2c9e-321f-49f8761911ea",
+            "query": "<span style=\"display: block;\">      An aircraft follows a radial to a VOR/DME station.  At 10:00 the DME reads 120 NM.  At 10:03 the DME reads 105 NM.  The estimated time overhead the VOR/DME station is:          </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>          10:21          </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          10:27          </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          10:18          </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>          10:24        </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7471f912-523f-d49d-e89d-25679b882ddb",
+            "query": "<span style=\"display: block;\"><p>What is the rhumb line distance, in nautical miles, between the positions 55°N, 168°W and 55°N, 172E?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": []
+        },
+        {
+            "uuid": "8007d1ab-142a-4298-bd82-0addf971aa6e",
+            "query": "<span style=\"display: block;\"><p>The constant of cone (n) of a Lambert chart at 48°N is 0.6, what is the constant of the cone at 60°N of this chart?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": []
+        }
+    ]
+}

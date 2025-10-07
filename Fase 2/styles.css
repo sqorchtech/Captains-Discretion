@@ -1,0 +1,107 @@
+body{
+    background-color: #f2f2f2;
+}
+
+
+.search-wrapper{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+
+.search-wrapper button{
+    padding: 1%;
+    margin: 2%;
+    height: 50px;
+    width: 15%;
+    background-color: #dddddd;
+    border-style: none;
+    border-radius: 10px;
+    color: black;
+}
+
+input {
+    align-self: center;
+    border: none;
+    appearance: none;
+    background: #dddddd;
+    padding: 1%;
+    border-radius: 10px;
+    width: 90%;
+    height: 50px;
+    outline: none;
+    font-size: larger;
+    text-align: center;
+}
+
+.question-cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1%;
+}
+
+.card{
+    background-color: #ffffffd0;
+    padding: 2%;
+    border-radius: 10px;
+    width: 70%;
+    margin: 2%;
+}
+
+.card > .header{
+    font-weight: bold;
+    font-size: x-large;
+    padding: 1%;
+}
+
+.card > .body{
+    font-size: large;
+}
+
+hr {
+    border-color: #777;
+}
+
+.hide {
+    display: none;
+}
+
+.navbar ul {
+    list-style-type: none;
+    background-color: #888;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-size: x-large;
+    font-family: bold;
+}
+
+.navbar a:hover{
+    background-color: #555;
+}
+
+.selected-nav {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-size: x-large;
+    font-family: bold;
+    background-color: #555;
+}
+
+.navbar li {
+    float: left;
+}

@@ -1,0 +1,652 @@
+{
+    "uuid": "19a9e9c6-53b5-49bc-abad-9db3dc1e2132",
+    "title": "M&B final 23  4 -",
+    "questions": [
+        {
+            "uuid": "d98cbbd7-bd05-99f5-31ee-c0ee92c2acef",
+            "query": "<span style=\"display: block;\"><p>What is the total weight of the Class 23 - 4&nbsp;according to the standard mass values?</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>20 X 92kg</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>20 x 88kg&nbsp;and 15kg for every piece of Baggage</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>That depends on the number of seats and type of flight</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>All passengers need to be weighed separately</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "11a857c8-5462-6b6e-a638-ae860f1e1945",
+            "query": "<span style=\"display: block;\">Which of the following is most likely to affect the range of centre of gravity positions on an aeroplane?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>The need to minimize drag forces and so improve efficiency.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>The need to maintain a low value of stalling speed.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Elevator and tailplane (horizontal stabilizer) effectiveness in all ?ight conditions.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Location of the undercarriage.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ae14842e-7d5d-2120-43cc-ade619c3fd69",
+            "query": "<span style=\"display: block;\">A load placed aft of the datum: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>has a negative arm and therefore generates a negative moment and mass.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>has a negative arm and therefore generates a negative moment but a positive mass.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>has a positive arm and therefore generates a positive moment.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>has a positive arm and therefore generates a positive moment but negative mass.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6f4da1fe-7820-f402-29bc-617878e380c4",
+            "query": "<span style=\"display: block;\">With the centre of gravity (CG) on the forward limit which of the following is to be expected?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>A decrease of the stalling speed.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>A tendency to yaw to the right on take-off.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>A decrease in range.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>A decrease in the landing speed.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "0b63e417-507b-6dde-39ec-f3983d9f580f",
+            "query": "<span style=\"display: block;\">The datum is a reference from which all moment (balance) arms are measured. Its precise position is given in the control and Loading Manual and it is located: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>at or near the forward limit of the centre of gravity.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>at a convenient point which may not physically be on the aeroplane.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>at or near the natural balance point of the empty aeroplane.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>at or near the focal point of the aeroplane axis system.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "09acdbaa-df63-9747-5742-8eb517479fb2",
+            "query": "<span style=\"display: block;\">Longitudinal CG location is normally expressed: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>as a percentage of the MAC from its trailing edge.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>as a percentage of the MAC from its leading edge.  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span>with respect to the centre of pressure.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>with respect to the neutral point.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4911c316-4aa8-fc62-4a46-753ffa1f0b4a",
+            "query": "<span style=\"display: block;\">The principle of the index method is: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>to round all values for easier and much faster calculation.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>to calculate the centre of gravity position (CG) and stabiliser trim setting without calculating the load sheet.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>to divide high magnitude moments by a constant and thereby simplify calculations by decreased values.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>to refer all the items of an aircraft to a position which is called BA (Balance Arm).</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "cacf1b58-c76b-5e29-c52a-f66a2b0f6044",
+            "query": "<span style=\"display: block;\"><p>An aircraft may be weighed:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>in an area of the airfield set aside for maintenance.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>in an enclosed hangar.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>in a quiet parking area clear ofthe normal manoeuvring area.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>at a specified \"weighing location\" on the airfield.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bc92789b-a432-da88-463a-c12806aefe54",
+            "query": "<span style=\"display: block;\">A location in the aircraft which is identified by a number designating its distance from the datum is known as: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>moment  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>station  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>MAC  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Index</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7e8a161d-8156-88bc-2a0f-d1df95212e5f",
+            "query": "<span style=\"display: block;\">The Zero Fuel Mass and the Dry Operating Mass: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>are the same value. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>differ by the sum of the mass of usable fuel plus Traffic Load mass.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>differ by the value of the Traffic Load mass.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>differ by the mass of usable fuel.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "552b2aac-80fb-87c1-64df-efda8c431f97",
+            "query": "<span style=\"display: block;\">The Maximum Zero Fuel Mass (MZFM) is a mass limitation for the: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>allowable load exerted upon the wing considering a margin for fuel tanking.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>strength of the wing root.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>strength of the fuselage.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>total load of the fuel imposed upon the wing.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "dbcb5dfc-8203-8ac4-ad2b-d5c6cc9f51dc",
+            "query": "<span style=\"display: block;\">Traffic Load is the: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Take-off Mass minus Zero Fuel Mass.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Dry Operating Mass minus the Variable Load.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Dry Operating Mass minus the disposable load.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Zero Fuel Mass minus Dry Operating Mass.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "08a44bbb-7882-c7a3-d4b3-d7a49ad7f15b",
+            "query": "<span style=\"display: block;\">The Total Mass of an aircraft including crew, crew baggage, plus catering and removable passenger equipment, plus potable water and lavatory chemicals but excluding usable fuel and Traffic Load, is referred to as: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Maximum Zero FueI Mass.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Aircraft Prepared for Service (APS) Mass.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Dry Operating Mass.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Zero Fuel Mass.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b490c5f4-a4c7-756e-9573-f1f70c44d7f8",
+            "query": "<span style=\"display: block;\">Basic Empty Mass (BEM): </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>Is the mass of an aeroplane including operating fluids, toilet and galley water and fuel. </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>ls usually determined by the aircraft manufacturer during weighing at the manufacturing plant and , does not include any additional equipment.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Is usually the mass of the basic aeroplane without any operating fluids.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>Is the mass of an aeroplane as produced by the manufacturer including operating fluids, toilet and galley water plus all required equipment plus unusable fuel.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "db0d09bc-6851-1551-f77d-421231f55ae8",
+            "query": "<span style=\"display: block;\"><p>In order to provide an adequate buffet boundary at the commencement of the cruise a speed of 1.3 Vs is used. At a mass of 120 000 kg this is a CAS of 180 kts. If the mass of the aeroplane is increased to 135000 kg the value of 1.3 Vs will be: Ik zou D doen ;-)</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>increased to 191 kts. drag will decrease and air distance per kg of fuel will increase.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>unaffected as Vs always occurs at the same angle of attack.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>increased to 202 kts but, since the same angle of attack is used, drag and range will remain the same.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>increased to 191 kts, drag will increase and air distance per kg of fuel will decrease.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "412df45c-09c5-74a7-d375-7c60090617e8",
+            "query": "<span style=\"display: block;\"><p>just prior to take-off, a baggage handler loads a heavy pallet with cargo into the forward hold without recording it in the Last Minute Changes (LMCs) section of the Mass &amp; Balance documentation. What are the effects of this action?</p><p>1. VMC will increase if the extra load is forward of the datum.</p><p>2. Stick forces in ?ight will decrease if the extra load is behind the datum.</p><p>3. Stick forces at VR will increase.</p><p>4. VMU will occur later.</p><p>5. The safe stopping distance will increase. The answer regrouping all the correct statements is:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>3,4,5</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1,5</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>2,3,4</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1.2,3,4,5</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ea039ce1-411e-5e13-3351-78ff3bc336ef",
+            "query": "<span style=\"display: block;\">The loaded mass of an aircraft is 12400 kg. The aft CG limit is 102 inches aft of the datum. If the CG as loaded is 104.5 inches aft of the datum, how many rows forward must two passengers move from the rear seat row (224 inches aft) to bring the CG on to the aft limit, if the seat pitch is 33 inches? Assume a passenger mass of 75 kg each.</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>5 rows  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>8 rows  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>7 rows  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>6 rows  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d90b95d0-5c6e-dd84-3e05-df92092c0d97",
+            "query": "<span style=\"display: block;\">Prior to departure an aeroplane is loaded with 16500 litres of fuel at a fuel density of 780 kg/m3. This is entered into the load sheet as 16 500 kg and calculations are carried out accordingly. As a result of this error, the aeroplane is: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>heavier than anticipated and the calculated safety speeds will be too low.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>lighter than anticipated and the calculated safety speeds will be too low.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>lighter than anticipated and the calculated safety speeds will be too high.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>heavier than anticipated and the calculated safety speeds will be too high.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f3a27185-808a-ee02-4073-5e3b9812e52d",
+            "query": "<span style=\"display: block;\">Given:  Zero Fuel Mass: 6660 kg  Trip Fuel: 990 kg Block Fuel: 1 540 kg Taxi Fuel: 25 kg  The actual Take-off Mass (TOM) is equal to: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>8110kg  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>8175kg  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>8200 kg  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>7210kg</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a1ab0a50-d2df-24a9-997f-4c16223a8a1b",
+            "query": "<span style=\"display: block;\"><p>The maximum floor loading on a baggage compartment floor is 120 lbs per square foot. If the surface area in contact with the ?oor is 4 ft x 3 ft and the mass of the total load is 1320 lbs, the actual floor loading on this aircraft is:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>11 lbs per square foot.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>110 lbs per square foot.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>120 lbs per square foot.</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>10 lbs per square foot.</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e10fc782-f37c-baae-9605-3e14bc070b5b",
+            "query": "<span style=\"display: block;\">An aircraft has a mass of 5 000 lbs and the CG is located at 80 in aft of the datum. The aft CG limit is at 80.5 in aft of the datum. What is the maximum mass that can be loaded into a hold situated 150 in aft of the datum without exceeding the limit?</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>58.15 lbs  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>23.15 lbs  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>35.97 lbs  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>39.50 lbs</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4afc97ed-7eaf-1885-222f-c9431599b3bc",
+            "query": "<span style=\"display: block;\">An additional baggage container is loaded into the aft cargo compartment but is not entered into the load and trim sheet. The aeroplane will be heavier than expected and calculated take-off safety speeds</span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>will be greater than required.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>are unaffected but V1 will be increased.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>will give reduced safety margins.  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>will not be achieved.</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "99c019af-49a1-9227-422d-6299a711ad93",
+            "query": "<span style=\"display: block;\">An aircraft fuel tank can hold a maximum volume equivalent to 2 300 kg of fuel at 0.80 SG. The tank is loaded with fuel at 0.78 SG, the volume of fuel that can be loaded is: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>1 840 litres  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>2 243 litres  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>2 875 litres  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>2 359 litres</span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "dc77576a-e11c-2837-2b22-ff1d0fdae805",
+            "query": "<span style=\"display: block;\"><p>Prior to departure the medium range twin jet aeroplane is loaded with maximum fuel of 20100 litres at a fuel density (specific gravity) of 0.78. Using the following data: Performance Limited Take-off Mass: 67200 kg Performance Limited Landing Mass: 54200 kg Dry Operating Mass: 34 930 kg Taxi fuel: 250 kg Trip Fuel: 9250 kg Contingency and Holding Fuel: 850 kg Alternate Fuel: 700 kg The maximum permissible Traffic Load (TL) is:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>18040kg</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>13092kg</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>12840kg</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>16470kg</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "943d1600-9bf9-2cfe-07bf-dd164cc3d053",
+            "query": "<span style=\"display: block;\"><p>Maximum Structural Take-off Mass: 146 900 kg</p><p>Maximum Structural Landing Mass: 93800 kg</p><p>Maximum Zero Fuel Mass: 86400 kg</p><p>Trip Fuel: 27 500 kg</p><p>Block Fuel: 35 500 kg</p><p>Engine starting and taxi fuel: 1000 kg</p><p>The maximum allowed Take-off Mass (TOM) is:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>120900kg</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>120300kg</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>121300kg</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>113900kg</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "da4c0a1d-4fc7-c321-f2e9-0a812d76d4e2",
+            "query": "<span style=\"display: block;\"><p>What mass has to be entered in the loading chart for aviation fuel if 170 I may be refuelled? (Fuel density = 0.78 kg/I)</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>133N</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>218 kg</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>133 kg</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>170 kg</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "675b31ca-bda3-5def-5b89-1f04d87d1abd",
+            "query": "<span style=\"display: block;\"><p>The operator must ensure an aircraft is weighed:</p><p>1) On initial entry into service.</p><p>2) If the mass and balance records have not been adjusted for alterations or modi?cation.</p><p>3) Every 48 months after initial weighing, unless \"Fleet Masses\" are utilized by the operator.</p><p>4) If the cumulative change in CG position exceeds :r 0.5% of the Mean Aerodynamic Chord (MAC)</p><p>5) Whenever the cumulative changes to the Dry Operating Mass (DOM) exceed 2 0.5% of the Maximum Landing Mass (MLM). The combination regrouping all the correct statements is:</p></span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span><p>1.3</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1.24.5</p>  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span><p>1,2,3,4,5</p>  </span>",
+                    "format": "html",
+                    "correct": true
+                },
+                {
+                    "text": "<span><p>1,2,3</p>  </span>",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "acaff4c5-e04a-c3c2-1e4c-41c807cca30f",
+            "query": "<span style=\"display: block;\">The mass of an aeroplane is 1 950 kg. If 450 kg is added to a cargo hold 1.75 metres from the loaded centre of gravity (CG). The loaded CG will move: </span><div class=\"h-fl-c\"><!----></div>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "<span>30 cm  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>34 cm  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>40 cm  </span>",
+                    "format": "html"
+                },
+                {
+                    "text": "<span>33 cm</span>",
+                    "format": "html"
+                }
+            ]
+        }
+    ]
+}

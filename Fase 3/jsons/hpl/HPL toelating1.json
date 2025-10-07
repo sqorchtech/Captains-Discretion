@@ -1,0 +1,1286 @@
+{
+    "uuid": "b291618e-b7e1-4a53-80f7-e337d636f376",
+    "title": "HPL Final Test 24-4",
+    "questions": [
+        {
+            "uuid": "bc0f1cd3-f5df-3cfa-8368-d2dd44a7b854",
+            "query": "<p>Communications is</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "75% verbal and 25% non-verbal",
+                    "format": "html"
+                },
+                {
+                    "text": "the exchange of information between individuals",
+                    "format": "html"
+                },
+                {
+                    "text": "is greatly improved by sitting side-by-side",
+                    "format": "html"
+                },
+                {
+                    "text": "has no cultural element in it",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "31673d95-671d-14cf-9257-e9ed53afd18d",
+            "query": "<p>Most fatal accidents in aviation occur during the:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Take-off phase",
+                    "format": "html"
+                },
+                {
+                    "text": "Cruise phase",
+                    "format": "html"
+                },
+                {
+                    "text": "Landing phase",
+                    "format": "html"
+                },
+                {
+                    "text": "Descent phase",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9fd97d42-e921-bf09-481c-ce41a020ef76",
+            "query": "<p>How is the rate and depth of breathing controlled?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "By the amount of white blood cells (leukocytes) in the blood",
+                    "format": "html"
+                },
+                {
+                    "text": "By the amount of red blood cells (RBC) in the blood",
+                    "format": "html"
+                },
+                {
+                    "text": "By the amount of CO (Carbon Monoxide) and O2 in the blood",
+                    "format": "html"
+                },
+                {
+                    "text": "By the amount of CO2 (Carbon Dioxide) in the blood",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "16250dec-dbba-283c-7afe-4ec7b1e38c23",
+            "query": "<p>What is the function of white blood cells within blood?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "to transport oxygen",
+                    "format": "html"
+                },
+                {
+                    "text": "to coagulate the blood",
+                    "format": "html"
+                },
+                {
+                    "text": "to counter infections",
+                    "format": "html"
+                },
+                {
+                    "text": "to repair blood vessels after an injury",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "010841db-3600-f192-c228-cc0abce1d798",
+            "query": "<p><a style=\"background-color:rgb(255, 255, 255);color:rgb(0, 69, 143);font-size:16px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:start;text-transform:none;word-spacing:0px;white-space:normal;\" href=\"https://kls.itslearning.com/Ntt/EditTool/MultipleChoice.aspx?TestID=187986&amp;QuestionId=2778806&amp;ReturnUrl=%2fNtt%2fEditTool%2fViewTestTeacher_Questions.aspx%3fTestID%3d187986%26PageTab%3dquestions\">Which of the following can be a cause of anaemic hypoxia?</a></p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Smoking",
+                    "format": "html"
+                },
+                {
+                    "text": "Fatigue",
+                    "format": "html"
+                },
+                {
+                    "text": "Decompression",
+                    "format": "html"
+                },
+                {
+                    "text": "High altitude",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "ec05de4c-15ce-86c2-631b-4de7ad5b52b0",
+            "query": "<p><a class=\"h-td-none h-hover-td-ul\" style=\"background-color:rgb(255, 255, 255);color:rgb(0, 69, 143);font-size:16px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:start;text-transform:none;word-spacing:0px;white-space:normal;\" href=\"https://kls.itslearning.com/Ntt/EditTool/MultipleChoice.aspx?TestID=187986&amp;QuestionId=2778807&amp;ReturnUrl=%2fNtt%2fEditTool%2fViewTestTeacher_Questions.aspx%3fTestID%3d187986%26PageTab%3dquestions\">Monocular cues are used in order to judge depth and distances at long range. Which of the following is NOT a monocular cue:</a></p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "colour distinction, which may be hindered by fog",
+                    "format": "html"
+                },
+                {
+                    "text": "Texture cues, which may be hindered by fog",
+                    "format": "html"
+                },
+                {
+                    "text": "Convergence of line features suggesting depth",
+                    "format": "html"
+                },
+                {
+                    "text": "Minute differences detected in the two retinal images of an object",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b8dd729c-d650-5f5d-4043-866d26d319c8",
+            "query": "<p><a style=\"background-color:rgb(255, 255, 255);color:rgb(0, 69, 143);font-size:16px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:start;text-transform:none;word-spacing:0px;white-space:normal;\" href=\"https://kls.itslearning.com/Ntt/EditTool/MultipleChoice.aspx?TestID=187986&amp;QuestionId=2778808&amp;ReturnUrl=%2fNtt%2fEditTool%2fViewTestTeacher_Questions.aspx%3fTestID%3d187986%26PageTab%3dquestions\">A pilot could fly a lower than normal (undershoot) visual approach due to certain circumstances:</a></p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "An approach to a runway with an unexpected up slope",
+                    "format": "html"
+                },
+                {
+                    "text": "An approach to a runway with an unexpected down slope",
+                    "format": "html"
+                },
+                {
+                    "text": "An approach to an unexpectedly wide runway",
+                    "format": "html"
+                },
+                {
+                    "text": "An approach with reduced visibility",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "935e3663-f937-fbfc-2c0b-1136a01968eb",
+            "query": "<p>\"Complacency\" means:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "a general lack of critical analysis of the circumstances",
+                    "format": "html"
+                },
+                {
+                    "text": "the perfect execution of the crew concept",
+                    "format": "html"
+                },
+                {
+                    "text": "hypervigilence",
+                    "format": "html"
+                },
+                {
+                    "text": "the loss of Manual Flying Skills",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "60f2d76b-38a8-5879-82e5-56a1bd71a52b",
+            "query": "<p>An autocratic leadership&nbsp;is described by:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Despite the strong authority of the captain, everything functions correctly owing to his natural leadership",
+                    "format": "html"
+                },
+                {
+                    "text": "The captain's authoritarian leadership style makes him to overvalue his own judgement and to undervalue the judgements of his crewmembers",
+                    "format": "html"
+                },
+                {
+                    "text": "The captain's authoritarian leadership style makes him receptive to inputs from his first officer",
+                    "format": "html"
+                },
+                {
+                    "text": "The atmosphere is relaxed thanks to a captain who leaves complete freedom to the various members of the crew",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "85e97edd-305c-b2de-8553-53e94fcbbc0b",
+            "query": "<p>What is selective attention?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Ability to focus attention on several activities at one time",
+                    "format": "html"
+                },
+                {
+                    "text": "Ability to focus attention on one source at a time",
+                    "format": "html"
+                },
+                {
+                    "text": "An increased distration by irrelevant cues",
+                    "format": "html"
+                },
+                {
+                    "text": "It is generated after too much amount of stress",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8a00ad39-d213-8deb-f3b9-ea438072405c",
+            "query": "<p><a style=\"background-color:rgb(255, 255, 255);color:rgb(0, 69, 143);font-size:16px;font-style:normal;font-weight:400;letter-spacing:normal;text-align:start;text-transform:none;word-spacing:0px;white-space:normal;\" href=\"https://kls.itslearning.com/Ntt/EditTool/MultipleChoice.aspx?TestID=187986&amp;QuestionId=2778811&amp;ReturnUrl=%2fNtt%2fEditTool%2fViewTestTeacher_Questions.aspx%3fTestID%3d187986%26PageTab%3dquestions\">What is a typical example of an undesired aircraft state to the TEM concept?</a></p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Any action by the flight crew in order to correct a flight crew error",
+                    "format": "html"
+                },
+                {
+                    "text": "Any action by the flight crew to prevent an organisational threat",
+                    "format": "html"
+                },
+                {
+                    "text": "Flying too fast during approach",
+                    "format": "html"
+                },
+                {
+                    "text": "first the error should be adressed before correcting the undersired aircraft state",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f2947e04-acd5-66d4-f7e0-e327fd6b44d1",
+            "query": "<p>The Nervous System can be&nbsp;devided into two parts. How are those called?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "The somatic Nervous System and the Autonomic Nervous System",
+                    "format": "html"
+                },
+                {
+                    "text": "Advanced System and Sympathetic System",
+                    "format": "html"
+                },
+                {
+                    "text": "Sensory System and Motor System",
+                    "format": "html"
+                },
+                {
+                    "text": "Central Nervous System and Peripheral Nervous System",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e8115254-0be5-41b5-854d-0103be847c5f",
+            "query": "<p>What are the five factors of “The Big Five” personality traits?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Unsympathetic, depressed, egocentric, sensation seeking and dominancy",
+                    "format": "html"
+                },
+                {
+                    "text": "Neuroticism, Safety needs, belonging, self-esteem, self-fullfilment",
+                    "format": "html"
+                },
+                {
+                    "text": "Anti-Authority, impulsiveness, invulnerability, macho and resignation",
+                    "format": "html"
+                },
+                {
+                    "text": "Conscientiousness, agreeableness, neuroticism, openess to experience and extroversion",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "7c144e65-57d4-d3a7-709a-4dc8c52941af",
+            "query": "<p>Name the main types of long term memories and their tasks.</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Semantic memory for recalling fact and figures and Procedural memory for recalling specific events",
+                    "format": "html"
+                },
+                {
+                    "text": "Episodic memory for recalling facts and figures and Semantic memory for recalling specific events.",
+                    "format": "html"
+                },
+                {
+                    "text": "Episodic memory for recalling facts and figures, photografic memory for recalling pictures and Episodic memory for recalling specific events.",
+                    "format": "html"
+                },
+                {
+                    "text": "Episodic memory for recalling specific events, Semantic memory for recalling facts and figures and Procedural memory for motor programmes",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "4deb0d2f-eacf-5b92-8ffb-369f57181291",
+            "query": "<p>When sound waves are detected by the eardrum, these signals go</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "via the middle ear to the Cochlea",
+                    "format": "html"
+                },
+                {
+                    "text": "via the middle ear to the Vestibular System",
+                    "format": "html"
+                },
+                {
+                    "text": "directly to the Auditory nerve",
+                    "format": "html"
+                },
+                {
+                    "text": "directly to the Cortex",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "97dd60ff-1e67-55aa-db60-c076fedf1deb",
+            "query": "<p>What are&nbsp;main causes&nbsp;of deafness?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Conductive Deafness and Tinitus",
+                    "format": "html"
+                },
+                {
+                    "text": "Presbycusis and Tinitis",
+                    "format": "html"
+                },
+                {
+                    "text": "Sensori-neural deafness, Noise Induced Hearing Loss",
+                    "format": "html"
+                },
+                {
+                    "text": "Noise Induced Hearing Loss and Conductive Deafness",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "345a6b82-4f86-42b3-06b4-94ee5aefe954",
+            "query": "<p>How is linear acceleration detected?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "By movement of the hair-like otoliths in the ultricle and /or saccule",
+                    "format": "html"
+                },
+                {
+                    "text": "By movement of the hairs  in the semi-circular canals",
+                    "format": "html"
+                },
+                {
+                    "text": "By the joint reactions of the semi-circular canals and the otoliths",
+                    "format": "html"
+                },
+                {
+                    "text": "By movement of the fluid in the Cochlea",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "13dec4d8-24c4-6203-ba12-0ce9e3f003b3",
+            "query": "<p>What part of the eye controls the amount of light entering the eye?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "The Iris",
+                    "format": "html"
+                },
+                {
+                    "text": "The Eyelids",
+                    "format": "html"
+                },
+                {
+                    "text": "The Lens",
+                    "format": "html"
+                },
+                {
+                    "text": "The Pupil",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "47a951b8-6cce-5fca-27fb-6ae80e67fd01",
+            "query": "<p>Which of the following statement is correct?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "The leans is a visual illusion",
+                    "format": "html"
+                },
+                {
+                    "text": "Coriolis is a visual illusion",
+                    "format": "html"
+                },
+                {
+                    "text": "Black Hole Effect is a visual illusion",
+                    "format": "html"
+                },
+                {
+                    "text": "Air Sickness is a vestibular illusion",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "fad6e6b5-5fdf-04f6-3d64-fa677d672bc5",
+            "query": "<p>Which diseases are spread by contaminated water?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Typhoid Fever, Cholera and Hepatitis",
+                    "format": "html"
+                },
+                {
+                    "text": "Ecoli, Malaria, Thypoid and Dengue",
+                    "format": "html"
+                },
+                {
+                    "text": "Tuberculosis, Cholera and Typhoid Fever",
+                    "format": "html"
+                },
+                {
+                    "text": "Typhoid Fever, Malaria, Yellow Fever",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "58403ce4-88ed-580d-4c06-1be2ecc8feb0",
+            "query": "<p>Why should a pilot not fly when he/she has a heavy cold?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "In flight the pressure in the middle ear has to be the same as the inner ear. A blocked eustachian tube may prevent this to happen",
+                    "format": "html"
+                },
+                {
+                    "text": "In flight the pressure on either side of the eardrum has to be the same. With a blocked eustacian tube during climb, the lower pressure cannot escape",
+                    "format": "html"
+                },
+                {
+                    "text": "AIt may lead to an Otic Barotrauma",
+                    "format": "html"
+                },
+                {
+                    "text": "With a blocked eustachian tube, the pilot will not be able to equalise the pressure of the inner ear.",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d9899664-649e-192c-464d-6d85ca7f10ab",
+            "query": "<p>What is REM-sleep?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "REM-sleep is Rapid Eye Movement and is the dream stage of each sleep cycle",
+                    "format": "html"
+                },
+                {
+                    "text": "REM-sleep is the earliest stage in each sleep cycle",
+                    "format": "html"
+                },
+                {
+                    "text": "REM-sleep is the lastsecond stage in each sleep cycle",
+                    "format": "html"
+                },
+                {
+                    "text": "REM-sleep is the third stage in each sleep cycle",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b36eb503-4cf2-77e0-d9df-7a4179cdca29",
+            "query": "<p>East-west flights crossing several time zones can result in significant circadian dysrhythmia. Eastbound routes haing a greater negative effect the wastbound.</p><p>The reason for this effect is:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Eastbound Flights loose more time than westbound flights gain",
+                    "format": "html"
+                },
+                {
+                    "text": "Westbound Flights are hindered by the (average) 25 hours circadian clock, and eastbound flights are aided",
+                    "format": "html"
+                },
+                {
+                    "text": "Westbound Flights gain more time than eastbound flight loose",
+                    "format": "html"
+                },
+                {
+                    "text": "Westbound Flights are aided by the (average) 25 hours circadian clock and eastbound flights are worsened",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1460cd0d-1c5a-a797-a0db-805c27889080",
+            "query": "<p>What is the Time of Usefull Consciousness (TUC) for a seated person at rest at 40.000 ft during a decompression?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "15-20 seconds",
+                    "format": "html"
+                },
+                {
+                    "text": "1 - 2 minutes",
+                    "format": "html"
+                },
+                {
+                    "text": "9 - 12 seconds",
+                    "format": "html"
+                },
+                {
+                    "text": "5 seconds",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e039a20d-0340-8377-a681-2937c07717cb",
+            "query": "<p>In the SHELL model, which of the answers below is an example of problematic&nbsp;Liveware-Hardware Interaction?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "A poorly indexed operating manual",
+                    "format": "html"
+                },
+                {
+                    "text": "Switches, controls and/or displays with poor design",
+                    "format": "html"
+                },
+                {
+                    "text": "Noise interference",
+                    "format": "html"
+                },
+                {
+                    "text": "Misunderstanding ATC",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "746132ea-862b-1c49-84a9-f906cbccfb5f",
+            "query": "<p>What is an indicator of good&nbsp;Situational AWareness?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "feeling that events are in control of you",
+                    "format": "html"
+                },
+                {
+                    "text": "The pilot follows SOP's correctly",
+                    "format": "html"
+                },
+                {
+                    "text": "Building a correct mental picture of one's situation",
+                    "format": "html"
+                },
+                {
+                    "text": "The pilot manages time efficiently when carrying out tasks",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "60234620-c54f-9417-c5e1-8e7b5ec3b410",
+            "query": "<p>A human error associated with automation is:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "a reduced monitoring task",
+                    "format": "html"
+                },
+                {
+                    "text": "checklist interruptions",
+                    "format": "html"
+                },
+                {
+                    "text": "hypervigilance",
+                    "format": "html"
+                },
+                {
+                    "text": "loss of mode awareness",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8643d32a-4d64-64dc-79a5-53b3cd3aae6e",
+            "query": "<p>An&nbsp;example of a potential conflict between status and role is</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "an ATC controller interviewing an inexperienced captain",
+                    "format": "html"
+                },
+                {
+                    "text": "a senior captain acting as co-pilot to a junior captain of an aircraft",
+                    "format": "html"
+                },
+                {
+                    "text": "a security officer temporarily standing in for a member of the cabin crew",
+                    "format": "html"
+                },
+                {
+                    "text": "The role of flight-examiner is performed by an experienced captain",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "bc3bc353-9c74-f561-fc35-44ec8dedb782",
+            "query": "<p>The purpose of the multi-crew concept is:</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Generation of a social environment",
+                    "format": "html"
+                },
+                {
+                    "text": "redundancy and  a division of responsability and workload sharing",
+                    "format": "html"
+                },
+                {
+                    "text": "Discussions with crew members so that correct decisions can be made",
+                    "format": "html"
+                },
+                {
+                    "text": "Pilots have to know how to operate the aircraft in order to fly it safely",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9810d7dd-4c1d-89a4-6195-c2ce97a22803",
+            "query": "<p>Stress is</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "a psychosomatic disease that one can learn to control",
+                    "format": "html"
+                },
+                {
+                    "text": "a heightened state of arousal caused by external, stressful events",
+                    "format": "html"
+                },
+                {
+                    "text": "a phenomenon whch is specific to modern mankind",
+                    "format": "html"
+                },
+                {
+                    "text": "always bad",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "36cdb38f-cb39-14c9-504a-d6997f9468eb",
+            "query": "<p>At night while flying VFR and “wings level”, you notice the artificial horizon indicates 20’ right bank</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "As you are convinced you fly horizontally, your artificial horizon must be wrong",
+                    "format": "html"
+                },
+                {
+                    "text": "You may be suffering a visual illusion and the horzon is most probably correct",
+                    "format": "html"
+                },
+                {
+                    "text": "Switch on your landinglights to verify you are in level flight",
+                    "format": "html"
+                },
+                {
+                    "text": "Bend your head to the lower side of the artificial horizon in order to compensate for your somatografic illusion",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "dfec40e8-9aee-e881-0813-cd36e71a39dd",
+            "query": "<p>Hypovigilance may&nbsp;be counteracted by</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "performing small mental calculations to keep yourself alert",
+                    "format": "html"
+                },
+                {
+                    "text": "drinking coffee",
+                    "format": "html"
+                },
+                {
+                    "text": "frequent yawning",
+                    "format": "html"
+                },
+                {
+                    "text": "Reducing the intensity of the lights",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "6fb15345-4abb-9853-698a-6ba8279b0535",
+            "query": "<p>What are the two different types of illusions?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Proprioception illusions and Deep sleep illusions",
+                    "format": "html"
+                },
+                {
+                    "text": "Vestibular illusions and Visual illusions",
+                    "format": "html"
+                },
+                {
+                    "text": "Jetlag illusions and Visual illusions",
+                    "format": "html"
+                },
+                {
+                    "text": "Vestibular illusions and Blind Spot illusions",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "8fd212bd-d0a1-20ea-8c50-1ff5079d447b",
+            "query": "<p>Regardless of the cause of the stress, the body's initial physiological response is always the same. The purpose if the Alarm phase of this so-called General Adaptation Syndrome is</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "to attempt to repair the damage caused by the stressor",
+                    "format": "html"
+                },
+                {
+                    "text": "to attemp to maintain the body's arousal state to the continuing stress",
+                    "format": "html"
+                },
+                {
+                    "text": "to prepare the body for \"fight or flight\"",
+                    "format": "html"
+                },
+                {
+                    "text": "to recognise the danger and to slow the body down via the autonomic system",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "491fae78-e608-8230-453e-9df59d322540",
+            "query": "<p>ICAO pilot competencies are</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "WLM, SAW and PSD",
+                    "format": "html"
+                },
+                {
+                    "text": "FPA, FPC and APK",
+                    "format": "html"
+                },
+                {
+                    "text": "SAW, COM and SHELL",
+                    "format": "html"
+                },
+                {
+                    "text": "TEM, LTW and APK",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d5a543e0-88c6-4792-9bfa-4203df33bf6c",
+            "query": "<p>The SHELL model consistes of</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Self, Hardware, Environment, Lifeware, Labor",
+                    "format": "html"
+                },
+                {
+                    "text": "Software, Human, Environment, Lifeware, Litigation",
+                    "format": "html"
+                },
+                {
+                    "text": "Software, Hardware, Environment, Lifeware and Lifware (peripheral)",
+                    "format": "html"
+                },
+                {
+                    "text": "Self, Human, Environment, Lethargy, Lifeware",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "554f2174-a9a2-c14d-0519-bb1875b66ebe",
+            "query": "<p>The Swiss Cheese Model is&nbsp;</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "is a model describing human behaviour",
+                    "format": "html"
+                },
+                {
+                    "text": "is a model describing cockpit management and automation",
+                    "format": "html"
+                },
+                {
+                    "text": "a model describing that a combintion of latent and active failures may lead to a fatal accident",
+                    "format": "html"
+                },
+                {
+                    "text": "a model for mitigating errors",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "193ed57c-1919-b33b-5180-4afff50521d6",
+            "query": "<p>A just culture</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "is limitted to the flight department of an CAT-operator only",
+                    "format": "html"
+                },
+                {
+                    "text": "can punish deliberate violations and acts of gross negligence",
+                    "format": "html"
+                },
+                {
+                    "text": "is a negative safety culture",
+                    "format": "html"
+                },
+                {
+                    "text": "is non-punitive",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "9e7d83b6-3e21-c7fa-0802-415217695621",
+            "query": "<p>The purpose of SMS, or Safety Management System is</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "to have a Zero Defect Programma",
+                    "format": "html"
+                },
+                {
+                    "text": "improve Flight Deck Ergonomics",
+                    "format": "html"
+                },
+                {
+                    "text": "Provide an effective reporting system across the organisation so that risks and countermeasures are developted and known to all",
+                    "format": "html"
+                },
+                {
+                    "text": "is about having \"Safety First\" at all costs.",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "701321dd-7526-74da-37ff-23b83cc92e0c",
+            "query": "<p>Within the altitudes at which CAT-aircraft operate, the proportion of gases by volume remains the same. For oxygen this is about 20%</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "False",
+                    "format": "html"
+                },
+                {
+                    "text": "True",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "607dd6e8-9127-2d78-ea17-b7b8d308e136",
+            "query": "<p>A Pilot's medical licence may be disqualified by</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "hypertention only",
+                    "format": "html"
+                },
+                {
+                    "text": "hypotention only",
+                    "format": "html"
+                },
+                {
+                    "text": "hypertension and by hypotension",
+                    "format": "html"
+                },
+                {
+                    "text": "neither of these two",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "acbe96eb-5049-5ef5-7d03-c92320e46169",
+            "query": "<p>Factors affecting the pulse rate are</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "body weight, pain",
+                    "format": "html"
+                },
+                {
+                    "text": "altitude, body weight",
+                    "format": "html"
+                },
+                {
+                    "text": "age, altitude,",
+                    "format": "html"
+                },
+                {
+                    "text": "body temperature, physical exercise",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "08d4b4b5-0a9f-a450-47cf-e0461e85fa6a",
+            "query": "<p>What is true about Hypoxia?</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "A sudden decompression may lead to Hypoxic Hypoxia",
+                    "format": "html"
+                },
+                {
+                    "text": "A sudden decompression will lead to Anaemic Hypoxia",
+                    "format": "html"
+                },
+                {
+                    "text": "Smoking may lead to Hypoxic Hypoxia",
+                    "format": "html"
+                },
+                {
+                    "text": "Below FL250 Hypoxic Hypoxia is not a problem for healthy people",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "1929dc12-e120-2bfe-7fe9-7bed119513b8",
+            "query": "<p>The TUC at FL400 for a seated person is approximately</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "30 min",
+                    "format": "html"
+                },
+                {
+                    "text": "1-2 min",
+                    "format": "html"
+                },
+                {
+                    "text": "30-90 sec",
+                    "format": "html"
+                },
+                {
+                    "text": "15-20 sec",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "e14200ef-9a06-2525-d251-57d63094d80b",
+            "query": "<p>According EASA, due to the risk of&nbsp;decompression sickness, Flight crew after SCUBA diving, should not resume flying duties within</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "12 hours of diving",
+                    "format": "html"
+                },
+                {
+                    "text": "24 hours of diving",
+                    "format": "html"
+                },
+                {
+                    "text": "36 hours of diving",
+                    "format": "html"
+                },
+                {
+                    "text": "48 hours of diving",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "f766526e-60f9-f5d1-a755-fcbed067f707",
+            "query": "<p>Hyperventilation may lead to&nbsp;</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "diabetes",
+                    "format": "html"
+                },
+                {
+                    "text": "obesity",
+                    "format": "html"
+                },
+                {
+                    "text": "fainting",
+                    "format": "html"
+                },
+                {
+                    "text": "euphoria",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "462ba7d7-5482-df75-121e-2ef54686c529",
+            "query": "<p>Loss of situational awareness can be caused by</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "sensory inputs below the sensory threshold",
+                    "format": "html"
+                },
+                {
+                    "text": "sensory inputs above the sensory threshold",
+                    "format": "html"
+                },
+                {
+                    "text": "a stimilus below the response",
+                    "format": "html"
+                },
+                {
+                    "text": "a response below the stimilus",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "2f0617d6-2228-ad2b-e583-8699cc3f287d",
+            "query": "<p>Automatically darkening sunglasses and polarised sunglasses&nbsp;are not permitted&nbsp;to be used by flight crew</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "true",
+                    "format": "html"
+                },
+                {
+                    "text": "false",
+                    "format": "html"
+                },
+                {
+                    "text": "only polarised sunglasses re not permitted",
+                    "format": "html"
+                },
+                {
+                    "text": "only photochromatic (automatic darkening) sunglasses are not permitted",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "3f269237-94b3-bc20-90ad-47a3ab9f8158",
+            "query": "<p>Regarding angular and linear acceleration</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "linear acceleration is experienced when an aircraft climbs or descends",
+                    "format": "html"
+                },
+                {
+                    "text": "linear acceleration will lead to progressive loss of vision (black-out)",
+                    "format": "html"
+                },
+                {
+                    "text": "angular acceleration may lead to progressive loss of vision (black-out)",
+                    "format": "html"
+                },
+                {
+                    "text": "Angular acceleration is experienced when an aircraft climbs or descends",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "283fec57-a86e-2842-4218-280b08eb342d",
+            "query": "<p>The mental modelling humans use for quickly interpreting a visual scene has great benefits but also&nbsp;holds great dangers. Visual constancy (in colour, size and shape) may easily fool our brain</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "as it may appear to the human brain  to have different colour, shape or size, but there is none",
+                    "format": "html"
+                },
+                {
+                    "text": "into increased vigilance",
+                    "format": "html"
+                },
+                {
+                    "text": "as it may induce dizziness and vertigo",
+                    "format": "html"
+                },
+                {
+                    "text": "into Motion sickness",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "d8aeba0b-f15b-8ec7-d26e-c05c6acdc67b",
+            "query": "<p>Radiation is a high altitude hazard and is greatest at the</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "Poles",
+                    "format": "html"
+                },
+                {
+                    "text": "Mid- lattitudes",
+                    "format": "html"
+                },
+                {
+                    "text": "Equator",
+                    "format": "html"
+                },
+                {
+                    "text": "Southern Hemisphere",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "a94eb7c1-405e-8c38-e958-3a3cc41e7343",
+            "query": "<p>Insect born diseases are</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "cholera, hepatitis, dengue",
+                    "format": "html"
+                },
+                {
+                    "text": "malaria, thyphoid, tuberculosis",
+                    "format": "html"
+                },
+                {
+                    "text": "dengue, malaria, yellow fever",
+                    "format": "html"
+                },
+                {
+                    "text": "Parasites, malaria, tuberculosis",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "dbab892e-0e94-7c85-ae7d-3fd8037f76d3",
+            "query": "<p>In general the REM sleep takes about 20 minutes and takes place about 1 to 2 hours after starting a sleep cycle.</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "The REM sleep is where the sleep walking may take place",
+                    "format": "html"
+                },
+                {
+                    "text": "The REM sleep is where the dreaming takes place",
+                    "format": "html"
+                },
+                {
+                    "text": "The REM sleep is stage 4 of the 5 stage sleep cycle",
+                    "format": "html"
+                },
+                {
+                    "text": "frequent REM sleep deprivation is not harmfull",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "b1089f9d-a86e-1473-7ff2-9fa67597107c",
+            "query": "<p>When in sudden darkness, your instant nightvision is best</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "by focussing and using your cones",
+                    "format": "html"
+                },
+                {
+                    "text": "by using your peripheral vison based on your rods by moving your head",
+                    "format": "html"
+                },
+                {
+                    "text": "by using your fovea",
+                    "format": "html"
+                },
+                {
+                    "text": "by using your blind spot",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "103417cb-ee56-57a1-b964-71ff370601e2",
+            "query": "<p>The vasalva manoeuvre might help to prevent</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "dental barotrauma",
+                    "format": "html"
+                },
+                {
+                    "text": "fainting",
+                    "format": "html"
+                },
+                {
+                    "text": "otic barotrauma",
+                    "format": "html"
+                },
+                {
+                    "text": "gastro-intestal barotrauma",
+                    "format": "html"
+                }
+            ]
+        },
+        {
+            "uuid": "236aa02a-42ed-7b98-cfd4-a1e8ad8bd49a",
+            "query": "<p>Followership is</p>",
+            "format": "html",
+            "options": [
+                {
+                    "text": "the ability to withold your opinion",
+                    "format": "html"
+                },
+                {
+                    "text": "the ability to perform all duties diligently",
+                    "format": "html"
+                },
+                {
+                    "text": "the skill of complementing leadership",
+                    "format": "html"
+                },
+                {
+                    "text": "the ability to absorb unpleasant comments and barked orders",
+                    "format": "html"
+                }
+            ]
+        }
+    ]
+}
